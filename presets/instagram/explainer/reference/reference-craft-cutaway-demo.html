@@ -1,0 +1,40 @@
+<!-- reference-craft-cutaway-demo.html — a WORKING icon-as-b-roll cutaway (reference-craft.md § 2.16, after the @lukedavis reel, 2026-09-15):
+     navy plate #131A2E + el-02 grid at 0.12 + a vignette (ONE plate per reel) · the library icon (money, on-dark) in an 800 px container = 624 px of
+     visible glyph, pop on the first frames · ONE thing written in the top third (the figure, Public Sans Black, the key part cyan) — the spoken
+     sentence is the running captions' job (V5) · the payoff chip ends at y1427, 40 px above the reel's measured caption line (1494). Opaque render:
+     GRAIN=0 render.sh <id> full (or npx hyperframes render → mp4), placed as b-roll on V2 (plan cell "cutaway": true) for 2–6 s. -->
+<!doctype html><html lang="es"><head><meta charset="UTF-8"/><meta name="viewport" content="width=1080, height=1920"/>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script><script src="hf-anim.js"></script>
+<title>cutaway · icon as b-roll (reference-craft § 2.16, after @lukedavis)</title><style>
+@font-face{font-family:"Playfair Display";src:url("assets/fonts/PlayfairDisplay-VF.ttf") format("truetype");font-weight:400 900;}
+@font-face{font-family:"Public Sans";src:url("assets/fonts/PublicSans-Black.otf") format("opentype");font-weight:900;}
+@font-face{font-family:"Public Sans";src:url("assets/fonts/PublicSans-SemiBold.otf") format("opentype");font-weight:600;}
+*{margin:0;padding:0;box-sizing:border-box;}
+:root{--cyan:#46D5FF;--blue:#1B35D0;--navy:#1E2A47;--navy2:#131A2E;--ink:#080A14;--w:#fff;}
+#root{position:relative;width:1080px;height:1920px;overflow:hidden;background:var(--navy2);}
+#grid{position:absolute;left:0;top:0;width:1080px;height:1920px;object-fit:cover;opacity:0.12;}
+#vig{position:absolute;inset:0;background:radial-gradient(ellipse 78% 60% at 50% 48%, rgba(19,26,46,0) 40%, rgba(8,10,20,0.85) 100%);}
+#float{position:absolute;inset:0;will-change:transform;}
+/* ONE thing written, in the top third: the figure (Public Sans Black, the key part in cyan) — the spoken sentence is the captions' job */
+.fig{position:absolute;left:80px;top:300px;width:920px;text-align:center;font-family:"Public Sans",sans-serif;font-weight:900;font-size:150px;line-height:1;color:var(--w);text-shadow:0 4px 0 var(--ink),0 12px 30px rgba(8,10,20,.7);opacity:0;will-change:transform,opacity;}
+.fig small{display:block;font-size:54px;letter-spacing:2px;text-transform:uppercase;color:var(--cyan);margin-top:14px;}
+/* the icon: 800 px container so the VISIBLE glyph (the webm carries padding) measures ~620 px */
+.iconw{position:absolute;left:140px;top:560px;width:800px;height:800px;opacity:0;will-change:transform,opacity;display:flex;align-items:center;justify-content:center;}
+.iconw video{width:800px;height:800px;}
+/* the payoff chip ends 40 px above the reel's caption line (measured on the face takes: 1494) */
+.pct{position:absolute;left:50%;top:1340px;transform:translateX(-50%);padding:14px 30px;border-radius:16px;background:var(--cyan);color:var(--ink);font-family:"Public Sans";font-weight:900;font-size:60px;line-height:1.1;opacity:0;box-shadow:0 0 34px rgba(70,213,255,.55);}
+</style></head><body style="margin:0;background:transparent;">
+<div id="root" data-composition-id="main" data-width="1080" data-height="1920" data-start="0" data-duration="3.0000">
+  <video id="grid" src="assets/el-02-grid-warp.mp4" data-start="0" data-duration="3.0" muted playsinline></video><div id="vig"></div>
+  <div id="float">
+    <div class="fig" id="fig">$20<small>por suscripción</small></div>
+    <div class="iconw" id="ic"><video src="assets/icons/money.webm" data-start="0.10" data-duration="2.9" muted playsinline></video></div>
+    <div class="pct" id="pct">×4 = $80</div>
+  </div>
+</div>
+<script>const DUR=3.0;const H=HF.init({fps:30000/1001,dur:DUR});const {tl,F,pop,riseIn,float}=H;
+float('#float',0,DUR,'subtle');
+pop('#ic',0.10);                                   // the icon IS the shot: enters on the first frames of the cutaway
+riseIn('#fig',0.42);                               // the figure lands on its word (inferred here); the captions say the sentence
+pop('#pct',2.05);                                  // the payoff chip enacts the arithmetic, above the caption line
+H.finish();</script></body></html>

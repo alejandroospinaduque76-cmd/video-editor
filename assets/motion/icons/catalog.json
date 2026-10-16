@@ -1,0 +1,1487 @@
+[
+ {
+  "slug": "acuerdo",
+  "source": "Acuerdo.mp4",
+  "name_es": "Acuerdo",
+  "duration": 2.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "acuerdo trato apretón de manos cerrar negocio deal handshake agreement"
+ },
+ {
+  "slug": "ajustes",
+  "source": "Ajustes.mp4",
+  "name_es": "Ajustes",
+  "duration": 3.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "ajustes configuración engranaje settings gear config"
+ },
+ {
+  "slug": "analisis-de-datos",
+  "source": "Análisis de datos.mp4",
+  "name_es": "Análisis de datos",
+  "duration": 2.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "análisis de datos gráfica estadística analytics data chart phone"
+ },
+ {
+  "slug": "atencion-al-cliente",
+  "source": "Atención al cliente.mp4",
+  "name_es": "Atención al cliente",
+  "duration": 2.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "atención al cliente soporte agente headset customer support service"
+ },
+ {
+  "slug": "ayuda",
+  "source": "Ayuda.mp4",
+  "name_es": "Ayuda",
+  "duration": 3.017,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "ayuda mano apoyo help support hand"
+ },
+ {
+  "slug": "black-friday",
+  "source": "Black-Friday.mp4",
+  "name_es": "Black-Friday",
+  "duration": 1.28,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "black friday oferta descuento porcentaje fuego sale discount percent fire"
+ },
+ {
+  "slug": "caminar-2",
+  "source": "Caminar 2.mp4",
+  "name_es": "Caminar 2",
+  "duration": 1.6,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "caminar persona andando walk walking person"
+ },
+ {
+  "slug": "companerismo",
+  "source": "Compañerismo.mp4",
+  "name_es": "Compañerismo",
+  "duration": 1.6,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "compañerismo equipo apoyo hombro camaraderie team fellowship"
+ },
+ {
+  "slug": "comunicados",
+  "source": "Comunicados.mp4",
+  "name_es": "Comunicados",
+  "duration": 1.64,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "comunicados anuncio megáfono valla announcement billboard megaphone"
+ },
+ {
+  "slug": "confundido",
+  "source": "Confundido.mp4",
+  "name_es": "Confundido",
+  "duration": 2.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "confundido duda pregunta interrogación confused question doubt"
+ },
+ {
+  "slug": "conversacion",
+  "source": "Conversación.mp4",
+  "name_es": "Conversación",
+  "duration": 3.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "conversación charla dos personas talk chat conversation dialogue"
+ },
+ {
+  "slug": "corona",
+  "source": "Corona.mp4",
+  "name_es": "Corona",
+  "duration": 2.0,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "corona rey premium líder crown king premium leader"
+ },
+ {
+  "slug": "debate",
+  "source": "Debate.mp4",
+  "name_es": "Debate",
+  "duration": 3.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "debate discusión chat burbujas grupo discussion group bubbles"
+ },
+ {
+  "slug": "finanzas",
+  "source": "Finanzas.mp4",
+  "name_es": "Finanzas",
+  "duration": 2.967,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "finanzas gráfico barras dinero finance bars chart money"
+ },
+ {
+  "slug": "flecha",
+  "source": "Flecha.mp4",
+  "name_es": "Flecha",
+  "duration": 3.0,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "flecha adelante siguiente arrow next forward"
+ },
+ {
+  "slug": "gestion-de-recursos",
+  "source": "Gestión de recursos.mp4",
+  "name_es": "Gestión de recursos",
+  "duration": 2.5,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "gestión de recursos engranaje dólar manos resource management gear money hands"
+ },
+ {
+  "slug": "lista-de-tareas",
+  "source": "Lista de tareas.mp4",
+  "name_es": "Lista de tareas",
+  "duration": 2.717,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "lista de tareas checklist calendario reloj tasks todo checklist schedule"
+ },
+ {
+  "slug": "llamada",
+  "source": "Llamada.mp4",
+  "name_es": "Llamada",
+  "duration": 2.017,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "llamada teléfono contacto call phone contact"
+ },
+ {
+  "slug": "networking",
+  "source": "Networking.mp4",
+  "name_es": "Networking",
+  "duration": 2.72,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "networking contactos red personas laptop network people"
+ },
+ {
+  "slug": "plan-de-negocios",
+  "source": "Plan de negocios.mp4",
+  "name_es": "Plan de negocios",
+  "duration": 2.667,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "plan de negocios pizarra diagrama estrategia business plan board strategy"
+ },
+ {
+  "slug": "sistema",
+  "source": "Sistema.mp4",
+  "name_es": "Sistema",
+  "duration": 3.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "sistema engranaje jerarquía proceso system gear hierarchy process"
+ },
+ {
+  "slug": "solitario",
+  "source": "Solitario.mp4",
+  "name_es": "Solitario",
+  "duration": 1.64,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "solitario solo persona alone lonely person"
+ },
+ {
+  "slug": "amistad",
+  "source": "amistad.mp4",
+  "name_es": "amistad",
+  "duration": 2.04,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "amistad amigos pareja friendship friends"
+ },
+ {
+  "slug": "bajo-construccion",
+  "source": "bajo-construccion.mp4",
+  "name_es": "bajo-construccion",
+  "duration": 1.48,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "bajo construcción herramientas obra under construction tools wrench"
+ },
+ {
+  "slug": "buy",
+  "source": "buy.mp4",
+  "name_es": "buy",
+  "duration": 3.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "comprar compra carrito tienda online buy purchase shop click"
+ },
+ {
+  "slug": "calendario",
+  "source": "calendario.mp4",
+  "name_es": "calendario",
+  "duration": 3.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "calendario fecha agenda día calendar date schedule"
+ },
+ {
+  "slug": "camara-de-video",
+  "source": "camara-de-video.mp4",
+  "name_es": "camara-de-video",
+  "duration": 2.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "cámara de video grabar filmar video camera record film"
+ },
+ {
+  "slug": "caminar",
+  "source": "caminar.mp4",
+  "name_es": "caminar",
+  "duration": 1.6,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "caminar andar persona walk walking"
+ },
+ {
+  "slug": "cancelar",
+  "source": "cancelar.mp4",
+  "name_es": "cancelar",
+  "duration": 1.68,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "cancelar rechazar persona equis cancel reject user x"
+ },
+ {
+  "slug": "carpeta",
+  "source": "carpeta.mp4",
+  "name_es": "carpeta",
+  "duration": 2.0,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "carpeta archivo escudo protegido folder file shield secure"
+ },
+ {
+  "slug": "casa-1",
+  "source": "casa (1).mp4",
+  "name_es": "casa (1)",
+  "duration": 2.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "casa hogar edificio inmueble house home building property"
+ },
+ {
+  "slug": "casa-2",
+  "source": "casa (2).mp4",
+  "name_es": "casa (2)",
+  "duration": 2.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "casa hogar edificio inmueble house home building property"
+ },
+ {
+  "slug": "casa-3",
+  "source": "casa (3).mp4",
+  "name_es": "casa (3)",
+  "duration": 2.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "casa hogar edificio inmueble house home building property"
+ },
+ {
+  "slug": "casa",
+  "source": "casa.mp4",
+  "name_es": "casa",
+  "duration": 2.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "casa hogar edificio inmueble house home building property"
+ },
+ {
+  "slug": "cash",
+  "source": "cash.mp4",
+  "name_es": "cash",
+  "duration": 2.0,
+  "fps": "30/1",
+  "size": "512x512",
+  "keywords": "efectivo billete dinero pagar cash bill money pay hand"
+ },
+ {
+  "slug": "cliente",
+  "source": "cliente.mp4",
+  "name_es": "cliente",
+  "duration": 2.0,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "cliente personas grupo usuarios customer client people users"
+ },
+ {
+  "slug": "computadora",
+  "source": "computadora.mp4",
+  "name_es": "computadora",
+  "duration": 3.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "computadora ordenador pantalla web computer monitor screen"
+ },
+ {
+  "slug": "constructor",
+  "source": "constructor.mp4",
+  "name_es": "constructor",
+  "duration": 2.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "constructor obrero casco pala builder worker helmet"
+ },
+ {
+  "slug": "contratado",
+  "source": "contratado.mp4",
+  "name_es": "contratado",
+  "duration": 1.95,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "contratado apretón de manos dólar contratación hired handshake deal money"
+ },
+ {
+  "slug": "convenio",
+  "source": "convenio.mp4",
+  "name_es": "convenio",
+  "duration": 2.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "convenio acuerdo sello handshake agreement contract certified"
+ },
+ {
+  "slug": "correo-electronico",
+  "source": "correo-electronico.mp4",
+  "name_es": "correo-electronico",
+  "duration": 2.0,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "correo electrónico email notificación mensaje mail inbox notification"
+ },
+ {
+  "slug": "correr",
+  "source": "correr.mp4",
+  "name_es": "correr",
+  "duration": 0.96,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "correr velocidad prisa run running speed fast"
+ },
+ {
+  "slug": "crecimiento-de-las-ganancias",
+  "source": "crecimiento-de-las-ganancias.mp4",
+  "name_es": "crecimiento-de-las-ganancias",
+  "duration": 2.517,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "crecimiento de las ganancias gráfico flecha arriba profit growth chart arrow up"
+ },
+ {
+  "slug": "crecimiento",
+  "source": "crecimiento.mp4",
+  "name_es": "crecimiento",
+  "duration": 2.5,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "crecimiento subir flecha gráfico growth increase arrow chart up"
+ },
+ {
+  "slug": "decision-correcta",
+  "source": "decision-correcta.mp4",
+  "name_es": "decision-correcta",
+  "duration": 2.16,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "decisión correcta check aprobado mano right decision approve check"
+ },
+ {
+  "slug": "decision",
+  "source": "decision.mp4",
+  "name_es": "decision",
+  "duration": 1.85,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "decisión opciones flechas cabeza decision options choose direction"
+ },
+ {
+  "slug": "delivery-truck",
+  "source": "delivery-truck.mp4",
+  "name_es": "delivery-truck",
+  "duration": 3.0,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "camión reparto entrega envío delivery truck shipping logistics"
+ },
+ {
+  "slug": "departamento",
+  "source": "departamento.mp4",
+  "name_es": "departamento",
+  "duration": 2.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "departamento apartamento edificio apartment building flats"
+ },
+ {
+  "slug": "desarrollo",
+  "source": "desarrollo.mp4",
+  "name_es": "desarrollo",
+  "duration": 1.8,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "desarrollo persona crecimiento engranaje development person growth gear"
+ },
+ {
+  "slug": "devaluacion",
+  "source": "devaluacion.mp4",
+  "name_es": "devaluacion",
+  "duration": 1.48,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "devaluación caída dólar bajar devaluation drop money down arrow"
+ },
+ {
+  "slug": "digitalization",
+  "source": "digitalization.mp4",
+  "name_es": "digitalization",
+  "duration": 1.75,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "digitalización cerebro circuito ia tecnología digitalization brain circuit ai technology"
+ },
+ {
+  "slug": "dinero",
+  "source": "dinero.mp4",
+  "name_es": "dinero",
+  "duration": 2.35,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "dinero móvil pago app billetera money phone payment wallet"
+ },
+ {
+  "slug": "dislike",
+  "source": "dislike.mp4",
+  "name_es": "dislike",
+  "duration": 3.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "dislike no me gusta pulgar abajo triste thumbs down negative"
+ },
+ {
+  "slug": "diversidad",
+  "source": "diversidad.mp4",
+  "name_es": "diversidad",
+  "duration": 1.72,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "diversidad personas inclusión diversity people inclusion"
+ },
+ {
+  "slug": "dog-walking",
+  "source": "dog-walking.mp4",
+  "name_es": "dog-walking",
+  "duration": 1.683,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "pasear perro mascota dog walking pet"
+ },
+ {
+  "slug": "down-arrow",
+  "source": "down-arrow.mp4",
+  "name_es": "down-arrow",
+  "duration": 2.0,
+  "fps": "30/1",
+  "size": "512x512",
+  "keywords": "flecha abajo bajar caer down arrow decrease drop"
+ },
+ {
+  "slug": "duda",
+  "source": "duda.mp4",
+  "name_es": "duda",
+  "duration": 1.64,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "duda pregunta persona burbuja doubt question person bubble"
+ },
+ {
+  "slug": "electricity",
+  "source": "electricity.mp4",
+  "name_es": "electricity",
+  "duration": 2.517,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "electricidad rayo energía electricity lightning energy power"
+ },
+ {
+  "slug": "empleo",
+  "source": "empleo.mp4",
+  "name_es": "empleo",
+  "duration": 2.733,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "empleo trabajo maletín manos job employment briefcase hands"
+ },
+ {
+  "slug": "entrevista-de-trabajo",
+  "source": "entrevista-de-trabajo.mp4",
+  "name_es": "entrevista-de-trabajo",
+  "duration": 2.5,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "entrevista de trabajo conversación mesa job interview meeting talk"
+ },
+ {
+  "slug": "escudo",
+  "source": "escudo.mp4",
+  "name_es": "escudo",
+  "duration": 2.042,
+  "fps": "24/1",
+  "size": "512x512",
+  "keywords": "escudo protección seguridad check shield protection security"
+ },
+ {
+  "slug": "euro",
+  "source": "euro.mp4",
+  "name_es": "euro",
+  "duration": 1.167,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "euro moneda dinero euro coin currency money"
+ },
+ {
+  "slug": "examen",
+  "source": "examen.mp4",
+  "name_es": "examen",
+  "duration": 2.0,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "examen test persona check equis exam evaluation candidate pass fail"
+ },
+ {
+  "slug": "exito",
+  "source": "exito.mp4",
+  "name_es": "exito",
+  "duration": 2.68,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "éxito estrella celebrar ganar success star win celebrate"
+ },
+ {
+  "slug": "exito-logros",
+  "source": "exito_logros.mp4",
+  "name_es": "exito_logros",
+  "duration": 4.0,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "éxito logros bandera escalones meta achievement flag steps goal"
+ },
+ {
+  "slug": "fast-forward",
+  "source": "fast-forward.mp4",
+  "name_es": "fast-forward",
+  "duration": 2.0,
+  "fps": "30/1",
+  "size": "512x512",
+  "keywords": "avance rápido adelantar flechas fast forward skip chevrons"
+ },
+ {
+  "slug": "flujo-de-ventas",
+  "source": "flujo-de-ventas.mp4",
+  "name_es": "flujo-de-ventas",
+  "duration": 3.017,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "flujo de ventas embudo conversión dólar sales funnel conversion money"
+ },
+ {
+  "slug": "forex",
+  "source": "forex.mp4",
+  "name_es": "forex",
+  "duration": 3.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "forex trading gráfico velas mercado forex trading chart candles market"
+ },
+ {
+  "slug": "free-wifi",
+  "source": "free-wifi.mp4",
+  "name_es": "free-wifi",
+  "duration": 1.48,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "wifi gratis internet señal free wifi internet signal"
+ },
+ {
+  "slug": "gestion",
+  "source": "gestion.mp4",
+  "name_es": "gestion",
+  "duration": 2.483,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "gestión engranaje personas equipo management gear team people"
+ },
+ {
+  "slug": "grafico-de-linea",
+  "source": "grafico-de-linea.mp4",
+  "name_es": "grafico-de-linea",
+  "duration": 2.0,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "gráfico de línea tendencia subir line chart trend up analytics"
+ },
+ {
+  "slug": "habilitacion-de-ventas",
+  "source": "habilitacion-de-ventas.mp4",
+  "name_es": "habilitacion-de-ventas",
+  "duration": 2.35,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "habilitación de ventas dinero bolsa ciclo sales enablement money bag cycle"
+ },
+ {
+  "slug": "hammer",
+  "source": "hammer.mp4",
+  "name_es": "hammer",
+  "duration": 2.733,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "martillo herramienta construir hammer tool build"
+ },
+ {
+  "slug": "heart",
+  "source": "heart.mp4",
+  "name_es": "heart",
+  "duration": 2.0,
+  "fps": "30/1",
+  "size": "512x512",
+  "keywords": "corazón amor me gusta heart love like"
+ },
+ {
+  "slug": "hospital",
+  "source": "hospital.mp4",
+  "name_es": "hospital",
+  "duration": 3.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "hospital clínica salud cruz hospital clinic health"
+ },
+ {
+  "slug": "house",
+  "source": "house.mp4",
+  "name_es": "house",
+  "duration": 1.95,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "casa hogar inmueble house home property"
+ },
+ {
+  "slug": "idea",
+  "source": "idea.mp4",
+  "name_es": "idea",
+  "duration": 2.833,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "idea bombilla equipo creatividad idea lightbulb team creativity"
+ },
+ {
+  "slug": "iman",
+  "source": "iman.mp4",
+  "name_es": "iman",
+  "duration": 2.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "imán atraer captar clientes magnet attract leads"
+ },
+ {
+  "slug": "inflacion",
+  "source": "inflacion.mp4",
+  "name_es": "inflacion",
+  "duration": 2.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "inflación dinero subir precios flecha inflation money prices arrow"
+ },
+ {
+  "slug": "inversion",
+  "source": "inversion.mp4",
+  "name_es": "inversion",
+  "duration": 1.5,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "inversión dinero tienda ciclo invertir investment money store cycle invest"
+ },
+ {
+  "slug": "jefe",
+  "source": "jefe.mp4",
+  "name_es": "jefe",
+  "duration": 2.5,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "jefe líder personas boss leader manager people"
+ },
+ {
+  "slug": "jugar",
+  "source": "jugar.mp4",
+  "name_es": "jugar",
+  "duration": 2.183,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "jugar video móvil play video phone"
+ },
+ {
+  "slug": "key",
+  "source": "key.mp4",
+  "name_es": "key",
+  "duration": 2.917,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "llave acceso clave key access unlock"
+ },
+ {
+  "slug": "la-mejor-experiencia-del-cliente",
+  "source": "la-mejor-experiencia-del-cliente.mp4",
+  "name_es": "la-mejor-experiencia-del-cliente",
+  "duration": 2.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "mejor experiencia del cliente estrellas valoración customer experience stars rating"
+ },
+ {
+  "slug": "labour-day",
+  "source": "labour-day.mp4",
+  "name_es": "labour-day",
+  "duration": 2.32,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "día del trabajo casco engranaje labour day helmet gear worker"
+ },
+ {
+  "slug": "likes",
+  "source": "likes.mp4",
+  "name_es": "likes",
+  "duration": 2.24,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "likes me gusta corazón contador likes heart counter social"
+ },
+ {
+  "slug": "listening",
+  "source": "listening.mp4",
+  "name_es": "listening",
+  "duration": 2.183,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "escuchar oído atención listening ear attention"
+ },
+ {
+  "slug": "live",
+  "source": "live.mp4",
+  "name_es": "live",
+  "duration": 1.96,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "en vivo directo transmisión live broadcast streaming tv"
+ },
+ {
+  "slug": "living-together",
+  "source": "living-together.mp4",
+  "name_es": "living-together",
+  "duration": 3.0,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "convivir vivir juntos pareja casa living together couple home"
+ },
+ {
+  "slug": "location",
+  "source": "location.mp4",
+  "name_es": "location",
+  "duration": 2.5,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "ubicación pin mapa lugar location pin map place"
+ },
+ {
+  "slug": "locker",
+  "source": "locker.mp4",
+  "name_es": "locker",
+  "duration": 2.667,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "candado arroba cuenta seguridad lock at account security"
+ },
+ {
+  "slug": "loss",
+  "source": "loss.mp4",
+  "name_es": "loss",
+  "duration": 3.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "pérdida caída gráfico mano loss decline chart drop hand"
+ },
+ {
+  "slug": "loyalty",
+  "source": "loyalty.mp4",
+  "name_es": "loyalty",
+  "duration": 2.0,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "lealtad fidelidad comunidad corazón loyalty community heart people"
+ },
+ {
+  "slug": "mala-decision",
+  "source": "mala-decision.mp4",
+  "name_es": "mala-decision",
+  "duration": 3.0,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "mala decisión equis check elegir bad decision wrong choice x"
+ },
+ {
+  "slug": "mano",
+  "source": "mano.mp4",
+  "name_es": "mano",
+  "duration": 2.0,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "mano estrella premio hand star award"
+ },
+ {
+  "slug": "marketing-de-contenidos",
+  "source": "marketing-de-contenidos.mp4",
+  "name_es": "marketing-de-contenidos",
+  "duration": 2.517,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "marketing de contenidos redes medios content marketing media posts"
+ },
+ {
+  "slug": "medalla",
+  "source": "medalla.mp4",
+  "name_es": "medalla",
+  "duration": 2.0,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "medalla premio reconocimiento medal award badge"
+ },
+ {
+  "slug": "medios-de-contenido",
+  "source": "medios-de-contenido.mp4",
+  "name_es": "medios-de-contenido",
+  "duration": 2.117,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "medios de contenido red social nodos content media social network nodes"
+ },
+ {
+  "slug": "mejor-calidad",
+  "source": "mejor-calidad.mp4",
+  "name_es": "mejor-calidad",
+  "duration": 1.367,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "mejor calidad diamante insignia premium best quality diamond badge"
+ },
+ {
+  "slug": "mentorship",
+  "source": "mentorship.mp4",
+  "name_es": "mentorship",
+  "duration": 1.85,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "mentoría tarjeta mano pasar mentorship card hand pass"
+ },
+ {
+  "slug": "money-bag",
+  "source": "money-bag.mp4",
+  "name_es": "money-bag",
+  "duration": 1.8,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "bolsa de dinero dólar ahorro money bag dollar savings"
+ },
+ {
+  "slug": "money",
+  "source": "money.mp4",
+  "name_es": "money",
+  "duration": 2.0,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "dinero billete efectivo money bill cash"
+ },
+ {
+  "slug": "multitarea",
+  "source": "multitarea.mp4",
+  "name_es": "multitarea",
+  "duration": 2.85,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "multitarea persona ideas correo notas multitasking person tasks"
+ },
+ {
+  "slug": "multitasking",
+  "source": "multitasking.mp4",
+  "name_es": "multitasking",
+  "duration": 2.5,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "multitarea red nodos persona multitasking network person"
+ },
+ {
+  "slug": "notas",
+  "source": "notas.mp4",
+  "name_es": "notas",
+  "duration": 2.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "notas cuaderno lápiz escribir notes notebook pencil write"
+ },
+ {
+  "slug": "ocupado",
+  "source": "ocupado.mp4",
+  "name_es": "ocupado",
+  "duration": 2.68,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "ocupado prisa reloj corriendo busy hurry clock running"
+ },
+ {
+  "slug": "opciones",
+  "source": "opciones.mp4",
+  "name_es": "opciones",
+  "duration": 2.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "opciones nodos elegir dedo options nodes choose finger"
+ },
+ {
+  "slug": "password",
+  "source": "password.mp4",
+  "name_es": "password",
+  "duration": 2.48,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "contraseña candado clave seguridad password lock security"
+ },
+ {
+  "slug": "perdida-de-memoria",
+  "source": "perdida-de-memoria.mp4",
+  "name_es": "perdida-de-memoria",
+  "duration": 2.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "pérdida de memoria cabeza pieza cerebro memory loss head puzzle brain"
+ },
+ {
+  "slug": "plan-de-negocios-2",
+  "source": "plan-de-negocios.mp4",
+  "name_es": "plan-de-negocios",
+  "duration": 3.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "plan de negocios pizarra diagrama dólar business plan board diagram money"
+ },
+ {
+  "slug": "postes-indicadores",
+  "source": "postes-indicadores.mp4",
+  "name_es": "postes-indicadores",
+  "duration": 2.0,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "postes indicadores dirección camino signpost direction path"
+ },
+ {
+  "slug": "presentacion-1",
+  "source": "presentacion (1).mp4",
+  "name_es": "presentacion (1)",
+  "duration": 1.76,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "presentación pizarra gráfica público presentation board chart audience"
+ },
+ {
+  "slug": "presentacion",
+  "source": "presentacion.mp4",
+  "name_es": "presentacion",
+  "duration": 1.64,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "presentación persona pizarra nodos presentation speaker board"
+ },
+ {
+  "slug": "proceso",
+  "source": "proceso.mp4",
+  "name_es": "proceso",
+  "duration": 2.183,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "proceso flujo pasos diagrama process flow steps diagram"
+ },
+ {
+  "slug": "progress",
+  "source": "progress.mp4",
+  "name_es": "progress",
+  "duration": 2.35,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "progreso flechas subir crecimiento progress arrows growth up"
+ },
+ {
+  "slug": "propiedad",
+  "source": "propiedad.mp4",
+  "name_es": "propiedad",
+  "duration": 1.96,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "propiedad casa manos inmueble property house hands real estate"
+ },
+ {
+  "slug": "puerta",
+  "source": "puerta.mp4",
+  "name_es": "puerta",
+  "duration": 3.0,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "puerta entrada abrir oportunidad door entrance open opportunity"
+ },
+ {
+  "slug": "puntos-de-vista",
+  "source": "puntos-de-vista.mp4",
+  "name_es": "puntos-de-vista",
+  "duration": 2.0,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "puntos de vista ojo perspectiva gráfico viewpoint eye perspective chart"
+ },
+ {
+  "slug": "puzzle",
+  "source": "puzzle.mp4",
+  "name_es": "puzzle",
+  "duration": 2.12,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "puzzle piezas encajar solución puzzle pieces fit solution"
+ },
+ {
+  "slug": "reciclaje",
+  "source": "reciclaje.mp4",
+  "name_es": "reciclaje",
+  "duration": 1.48,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "reciclaje flechas ciclo energía recycling arrows cycle"
+ },
+ {
+  "slug": "reclutamiento",
+  "source": "reclutamiento.mp4",
+  "name_es": "reclutamiento",
+  "duration": 2.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "reclutamiento lupa persona buscar talento recruitment magnifier person hire talent"
+ },
+ {
+  "slug": "relacion",
+  "source": "relacion.mp4",
+  "name_es": "relacion",
+  "duration": 3.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "relación apretón de manos conexión relationship handshake connection"
+ },
+ {
+  "slug": "renewable-energy",
+  "source": "renewable-energy.mp4",
+  "name_es": "renewable-energy",
+  "duration": 3.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "energía renovable rayo ciclo mano renewable energy lightning cycle hand"
+ },
+ {
+  "slug": "resolviendo-problemas",
+  "source": "resolviendo-problemas.mp4",
+  "name_es": "resolviendo-problemas",
+  "duration": 3.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "resolver problemas bombilla idea mano problem solving lightbulb hand"
+ },
+ {
+  "slug": "restaurante",
+  "source": "restaurante.mp4",
+  "name_es": "restaurante",
+  "duration": 2.45,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "restaurante comida plato cubiertos restaurant food plate cutlery"
+ },
+ {
+  "slug": "running",
+  "source": "running.mp4",
+  "name_es": "running",
+  "duration": 0.96,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "correr velocidad persona run running speed"
+ },
+ {
+  "slug": "sad",
+  "source": "sad.mp4",
+  "name_es": "sad",
+  "duration": 2.0,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "triste cara emoción sad face emotion"
+ },
+ {
+  "slug": "search",
+  "source": "search.mp4",
+  "name_es": "search",
+  "duration": 2.0,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "buscar lupa ubicación search magnifier location"
+ },
+ {
+  "slug": "sell",
+  "source": "sell.mp4",
+  "name_es": "sell",
+  "duration": 3.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "vender venta gráfica click sell sale chart click"
+ },
+ {
+  "slug": "senal-de-stop",
+  "source": "senal-de-stop.mp4",
+  "name_es": "senal-de-stop",
+  "duration": 1.833,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "señal de stop parar alto stop sign halt"
+ },
+ {
+  "slug": "senal-de-telefono",
+  "source": "senal-de-telefono.mp4",
+  "name_es": "senal-de-telefono",
+  "duration": 2.433,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "señal de teléfono móvil mano wifi phone signal mobile hand"
+ },
+ {
+  "slug": "senalizar",
+  "source": "senalizar.mp4",
+  "name_es": "senalizar",
+  "duration": 2.0,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "señalizar poste dirección signpost direction sign"
+ },
+ {
+  "slug": "seo",
+  "source": "seo.mp4",
+  "name_es": "seo",
+  "duration": 2.183,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "seo posicionamiento web buscador seo web search ranking"
+ },
+ {
+  "slug": "service-area",
+  "source": "service-area.mp4",
+  "name_es": "service-area",
+  "duration": 2.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "área de servicio ubicación radio service area location radius"
+ },
+ {
+  "slug": "sewing-machine",
+  "source": "sewing-machine.mp4",
+  "name_es": "sewing-machine",
+  "duration": 1.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "máquina de coser textil sewing machine textile"
+ },
+ {
+  "slug": "shield",
+  "source": "shield.mp4",
+  "name_es": "shield",
+  "duration": 2.042,
+  "fps": "24/1",
+  "size": "512x512",
+  "keywords": "escudo check seguridad protección shield check security protection"
+ },
+ {
+  "slug": "skill",
+  "source": "skill.mp4",
+  "name_es": "skill",
+  "duration": 2.5,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "habilidad bombilla puzzle ideas skill lightbulb puzzle"
+ },
+ {
+  "slug": "social-media",
+  "source": "social-media.mp4",
+  "name_es": "social-media",
+  "duration": 2.667,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "redes sociales instagram facebook youtube social media"
+ },
+ {
+  "slug": "sound-wave",
+  "source": "sound-wave.mp4",
+  "name_es": "sound-wave",
+  "duration": 3.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "onda de sonido audio altavoz sound wave audio speaker"
+ },
+ {
+  "slug": "speech-bubble",
+  "source": "speech-bubble.mp4",
+  "name_es": "speech-bubble",
+  "duration": 1.48,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "burbuja de diálogo persona exclamación speech bubble person alert"
+ },
+ {
+  "slug": "stopwatch",
+  "source": "stopwatch.mp4",
+  "name_es": "stopwatch",
+  "duration": 2.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "cronómetro tiempo entrenar stopwatch timer training"
+ },
+ {
+  "slug": "superpoblacion",
+  "source": "superpoblacion.mp4",
+  "name_es": "superpoblacion",
+  "duration": 2.133,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "superpoblación multitud personas overpopulation crowd people"
+ },
+ {
+  "slug": "teamwork",
+  "source": "teamwork.mp4",
+  "name_es": "teamwork",
+  "duration": 2.0,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "trabajo en equipo personas unidas teamwork team people together"
+ },
+ {
+  "slug": "test",
+  "source": "test.mp4",
+  "name_es": "test",
+  "duration": 2.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "test examen documento test exam document"
+ },
+ {
+  "slug": "tiempo-de-inactividad-1",
+  "source": "tiempo-de-inactividad (1).mp4",
+  "name_es": "tiempo-de-inactividad (1)",
+  "duration": 2.3,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "tiempo de inactividad reloj flecha abajo downtime clock idle"
+ },
+ {
+  "slug": "tiempo",
+  "source": "tiempo.mp4",
+  "name_es": "tiempo",
+  "duration": 3.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "tiempo reloj espera time clock waiting"
+ },
+ {
+  "slug": "tienda",
+  "source": "tienda.mp4",
+  "name_es": "tienda",
+  "duration": 1.4,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "tienda local negocio store shop business"
+ },
+ {
+  "slug": "toca-para-pagar",
+  "source": "toca-para-pagar.mp4",
+  "name_es": "toca-para-pagar",
+  "duration": 1.5,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "toca para pagar móvil pago contactless tap to pay phone payment"
+ },
+ {
+  "slug": "toma-de-decisiones",
+  "source": "toma-de-decisiones.mp4",
+  "name_es": "toma-de-decisiones",
+  "duration": 2.2,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "toma de decisiones flechas caminos decision making arrows paths"
+ },
+ {
+  "slug": "tombstone",
+  "source": "tombstone.mp4",
+  "name_es": "tombstone",
+  "duration": 3.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "lápida muerte fin rip tombstone death end"
+ },
+ {
+  "slug": "tools",
+  "source": "tools.mp4",
+  "name_es": "tools",
+  "duration": 2.28,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "herramientas martillo destornillador tools hammer screwdriver"
+ },
+ {
+  "slug": "trabajar",
+  "source": "trabajar.mp4",
+  "name_es": "trabajar",
+  "duration": 2.0,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "trabajar escritorio laptop persona work desk laptop person"
+ },
+ {
+  "slug": "trading",
+  "source": "trading.mp4",
+  "name_es": "trading",
+  "duration": 3.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "trading gráfico móvil dinero trading chart phone money"
+ },
+ {
+  "slug": "transformacion-digital",
+  "source": "transformacion-digital.mp4",
+  "name_es": "transformacion-digital",
+  "duration": 2.417,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "transformación digital engranaje circuito digital transformation gear circuit"
+ },
+ {
+  "slug": "tutoria",
+  "source": "tutoria.mp4",
+  "name_es": "tutoria",
+  "duration": 3.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "tutoría mentor persona flechas tutoring mentor person guide"
+ },
+ {
+  "slug": "ubicacion",
+  "source": "ubicacion.mp4",
+  "name_es": "ubicacion",
+  "duration": 2.5,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "ubicación pin objetivo location pin target"
+ },
+ {
+  "slug": "up",
+  "source": "up.mp4",
+  "name_es": "up",
+  "duration": 2.267,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "arriba subir chevron doble up arrow increase level up"
+ },
+ {
+  "slug": "vegetariano",
+  "source": "vegetariano.mp4",
+  "name_es": "vegetariano",
+  "duration": 2.0,
+  "fps": "30/1",
+  "size": "512x512",
+  "keywords": "vegetariano hojas personas grupo vegetarian leaves people"
+ },
+ {
+  "slug": "video-call",
+  "source": "video-call.mp4",
+  "name_es": "video-call",
+  "duration": 2.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "videollamada laptop persona video call laptop meeting"
+ },
+ {
+  "slug": "video-camera",
+  "source": "video-camera.mp4",
+  "name_es": "video-camera",
+  "duration": 2.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "cámara de video grabar video camera record"
+ },
+ {
+  "slug": "view",
+  "source": "view.mp4",
+  "name_es": "view",
+  "duration": 2.0,
+  "fps": "30/1",
+  "size": "512x512",
+  "keywords": "ver ojo vista visibilidad view eye visibility"
+ },
+ {
+  "slug": "vlog",
+  "source": "vlog.mp4",
+  "name_es": "vlog",
+  "duration": 2.0,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "vlog persona cámara marco vlog creator frame camera"
+ },
+ {
+  "slug": "web",
+  "source": "web.mp4",
+  "name_es": "web",
+  "duration": 3.0,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "web internet globo www website internet globe"
+ },
+ {
+  "slug": "work-injury",
+  "source": "work-injury.mp4",
+  "name_es": "work-injury",
+  "duration": 2.517,
+  "fps": "60/1",
+  "size": "512x512",
+  "keywords": "accidente laboral persona caída work injury fall"
+ },
+ {
+  "slug": "work",
+  "source": "work.mp4",
+  "name_es": "work",
+  "duration": 2.0,
+  "fps": "25/1",
+  "size": "512x512",
+  "keywords": "trabajar escritorio persona laptop work desk person laptop"
+ }
+]

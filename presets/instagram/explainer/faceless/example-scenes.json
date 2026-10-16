@@ -1,0 +1,98 @@
+{
+ "fps": "30000/1001",
+ "caption_top": 1497,
+ "scenes": [
+  {
+   "id": "s0",
+   "pattern": "type",
+   "start": 0.0,
+   "end": 1.44,
+   "note": "¿Vos te imaginas tener acceso… — the question opens the reel on frame 0 (a faceless reel never opens on an empty plate)",
+   "words": [
+    {
+     "text": "¿Te imaginás…?",
+     "at": 0.03,
+     "size": 140,
+     "top": 820
+    }
+   ]
+  },
+  {
+   "id": "s1",
+   "pattern": "stack",
+   "start": 1.44,
+   "end": 3.7,
+   "note": "¿Vos te imaginas tener acceso a un montón de modelos de inteligencia artificial… — the four real logos stack in on 'montón' 1.52 / 'modelos' 2.24 / 'inteligencia' 2.58 / 'artificial' 3.05; the figure lands on 'modelos'",
+   "figure": {
+    "text": "TODOS LOS MODELOS",
+    "hero": "TODOS",
+    "sub": "de IA",
+    "at": 2.16,
+    "size": 110
+   },
+   "items": [
+    {
+     "logo": "ai/openai-white.svg",
+     "brand": "#000000",
+     "at": 1.44
+    },
+    {
+     "logo": "ai/anthropic-white.svg",
+     "brand": "#d97757",
+     "at": 2.16
+    },
+    {
+     "logo": "ai/googlegemini-white.svg",
+     "brand": "#1B35D0",
+     "at": 2.5
+    },
+    {
+     "logo": "ai/grok-white.svg",
+     "brand": "#000000",
+     "at": 2.97
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "pattern": "counter",
+   "start": 3.7,
+   "end": 6.006,
+   "note": "…sin tener que pagar la suscripción de cada uno? — the price counts up from $0 to $80 across 'pagar' 4.44 → 'cada uno' 5.81 (4 × $20), the bill icon holds the frame",
+   "icon": "money",
+   "icon_at": 3.7,
+   "counter": {
+    "from": 0,
+    "to": 80,
+    "prefix": "$",
+    "suffix": "",
+    "sub": "al mes, uno por uno",
+    "at_start": 4.36,
+    "at_end": 5.73,
+    "size": 190,
+    "chip": "×4 suscripciones",
+    "chip_at": 5.42
+   }
+  },
+  {
+   "id": "s3",
+   "pattern": "stack",
+   "start": 6.006,
+   "end": 8.375,
+   "note": "Existe y se llama arena.ai — the globe pops on 'Existe' 6.17, the name lands on 'arena.ai' 7.43",
+   "figure": {
+    "text": "arena.ai",
+    "hero": "arena.ai",
+    "sub": "existe",
+    "at": 7.35,
+    "size": 150
+   },
+   "items": [
+    {
+     "icon": "web",
+     "at": 6.09
+    }
+   ]
+  }
+ ]
+}

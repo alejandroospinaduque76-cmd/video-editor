@@ -1,0 +1,45 @@
+<!-- reference-craft-demo.html — a WORKING comp of reference-craft.md pieces on one 1080x1920 frame, placed in the MEASURED free zones (2026-09-15):
+     face-guard.py zones on the take gave KEEP-OUT x170→814 y671→1454 · above y200→671 · below y1454→1620 (the captions' band) · right 266 px (no tile fits).
+     fixed headline (§2.1) + 200 px logo tile (§2.3) + 200 px icon tile (§2.4) in the ABOVE zone · screen texture (§2.7, the FULL-coverage el-02 grid
+     tinted cyan, opacity 0.35) with the § 2.7 hole: ellipse half-axes 0.71 x the keep-out (457 x 556 at its centre), feather to 125 %, the wrapper OUTSIDE
+     #float so the hole stays on the face. No chip: `below` belongs to the captions (a chip goes to `above` or becomes a cutaway). face-guard.py check:
+     0.00 % inside the keep-out (FACE CLEAR). The composite over the raw frame is reference-craft-demo.jpg beside this file. -->
+<!doctype html><html lang="es"><head><meta charset="UTF-8"/><meta name="viewport" content="width=1080, height=1920"/>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script><script src="hf-anim.js"></script>
+<title>demo3 · reference-craft pieces in the MEASURED free zones, full-coverage texture with the § 2.7 hole</title><style>
+/* face-guard zones (B650DDCC 4.0→7.0, seq 1080x1920): KEEP-OUT x170→814 y671→1454 · above y200→671 · below y1454→1620 · right x814→1080 (266 wide: no tile fits) */
+@font-face{font-family:"Playfair Display";src:url("assets/fonts/PlayfairDisplay-VF.ttf") format("truetype");font-weight:400 900;}
+@font-face{font-family:"Public Sans";src:url("assets/fonts/PublicSans-Black.otf") format("opentype");font-weight:900;}
+*{margin:0;padding:0;box-sizing:border-box;}
+:root{--cyan:#46D5FF;--blue:#1B35D0;--navy:#1E2A47;--navy2:#131A2E;--ink:#080A14;--w:#fff;}
+#root{position:relative;width:1080px;height:1920px;overflow:hidden;background:transparent;}
+#float{position:absolute;inset:0;will-change:transform;}
+/* the texture wrapper carries a feathered HOLE around the keep-out: centre (492,1062), half-size 322x392, feather to 1.3x */
+/* the hole CONTAINS the keep-out: half-axes 0.71 x (644, 783) = 457 x 556, feather to 125 % (reference-craft § 2.7) */
+#texw{position:absolute;left:0;top:0;width:1080px;height:1920px;opacity:0;
+  -webkit-mask-image:radial-gradient(ellipse 457px 556px at 492px 1062px, transparent 100%, #000 125%);
+  mask-image:radial-gradient(ellipse 457px 556px at 492px 1062px, transparent 100%, #000 125%);}
+#texw video{position:absolute;left:0;top:0;width:1080px;height:1920px;object-fit:cover;}
+.title{position:absolute;left:70px;top:222px;width:940px;text-align:center;font-family:"Playfair Display",Georgia,serif;font-weight:700;font-size:64px;line-height:1.02;color:var(--w);letter-spacing:-1px;text-shadow:0 4px 0 var(--ink),0 14px 34px rgba(8,10,20,.75);opacity:0;will-change:transform,opacity;}
+.cy{color:var(--cyan);}
+/* tiles shrink to 200 px so they fit the 'above' zone under the headline (y 420→620, 51 px clear of the keep-out top 671) */
+.tile{position:absolute;left:300px;top:420px;width:200px;height:200px;border-radius:26px;background:#d97757;box-shadow:0 18px 40px rgba(8,10,20,.7);display:flex;align-items:center;justify-content:center;opacity:0;will-change:transform,opacity;}
+.tile img{width:110px;}
+.iconw{position:absolute;left:580px;top:420px;width:200px;height:200px;border-radius:26px;background:linear-gradient(165deg,var(--navy),var(--navy2));border:2px solid rgba(70,213,255,.55);box-shadow:0 18px 40px rgba(8,10,20,.7);display:flex;align-items:center;justify-content:center;opacity:0;will-change:transform,opacity;}
+.iconw video{width:140px;height:140px;}
+/* the chip goes to the 'below' zone: keep-out bottom 1454 + 40 → y1494, 94 px tall, ends 1588 < 1620 */
+.chip{position:absolute;left:50%;top:1494px;transform:translateX(-50%);padding:16px 32px;border-radius:18px;background:var(--w);color:var(--ink);font-family:"Public Sans",sans-serif;font-weight:900;font-size:54px;line-height:1.1;white-space:nowrap;box-shadow:0 18px 40px rgba(8,10,20,.7);opacity:0;will-change:transform,opacity;}
+</style></head><body style="margin:0;background:transparent;">
+<div id="root" data-composition-id="main" data-width="1080" data-height="1920" data-start="0" data-duration="3.0000">
+  <!-- the texture sits OUTSIDE #float: its hole stays on the face, which does not float -->
+  <div id="texw"><video src="assets/el-02-alpha-46D5FF.webm" data-start="0" data-duration="3.0" muted playsinline></video></div>
+  <div id="float">
+  <div class="title" id="t">Probá <span class="cy">4 modelos</span><br/>de IA sin pagar</div>
+  <div class="tile" id="logo"><img src="assets/logos/anthropic-white.svg"/></div>
+  <div class="iconw" id="ic"><video src="assets/icons/dinero.webm" data-start="0.90" data-duration="2.1" muted playsinline></video></div>
+</div></div>
+<script>const DUR=3.0;const H=HF.init({fps:30000/1001,dur:DUR});const {tl,F,pop,riseIn,float}=H;
+float('#float',0,DUR,'subtle');
+tl.set('#texw',{opacity:0.35},0);           // a FULL-coverage element sits at 0.35 (§ 2.7)
+riseIn('#t',0.0); pop('#logo',0.55); pop('#ic',0.90);
+['#t','#logo','#ic','#texw'].forEach(s=>tl.set(s,{opacity:0},DUR-F)); H.finish();</script></body></html>

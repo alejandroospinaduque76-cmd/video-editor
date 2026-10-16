@@ -1,0 +1,983 @@
+[
+ {
+  "slug": "acantilado",
+  "source": "Cliff.png",
+  "name_es": "Acantilado",
+  "size": "2346x2400",
+  "source_size": "7304x7471",
+  "alpha": true,
+  "keywords": "acantilado riesgo borde precipicio cliff edge risk"
+ },
+ {
+  "slug": "al-celular",
+  "source": "On cellphone.png",
+  "name_es": "Al celular",
+  "size": "911x2400",
+  "source_size": "1609x4239",
+  "alpha": true,
+  "keywords": "hablar celular llamada on phone call"
+ },
+ {
+  "slug": "alas",
+  "source": "Wings.png",
+  "name_es": "Alas",
+  "size": "1444x2400",
+  "source_size": "2175x3615",
+  "alpha": true,
+  "keywords": "alas libertad volar wings freedom fly"
+ },
+ {
+  "slug": "apoyado-relajado",
+  "source": "Leaning relaxed.png",
+  "name_es": "Apoyado, relajado",
+  "size": "2400x936",
+  "source_size": "11015x4297",
+  "alpha": true,
+  "keywords": "relajado apoyado tranquilo leaning relaxed"
+ },
+ {
+  "slug": "arrastrando-sombra",
+  "source": "Pulling shadow.png",
+  "name_es": "Arrastrando sombra",
+  "size": "2016x2400",
+  "source_size": "5527x6581",
+  "alpha": true,
+  "keywords": "sombra pasado carga pulling shadow past burden"
+ },
+ {
+  "slug": "autoayuda",
+  "source": "Self help.png",
+  "name_es": "Autoayuda",
+  "size": "2400x1525",
+  "source_size": "9607x6105",
+  "alpha": true,
+  "keywords": "autoayuda crecimiento personal self help growth"
+ },
+ {
+  "slug": "ayudando-a-un-amigo",
+  "source": "Helping friend.png",
+  "name_es": "Ayudando a un amigo",
+  "size": "2346x2400",
+  "source_size": "7304x7471",
+  "alpha": true,
+  "keywords": "ayuda apoyo amigo levantar helping friend support"
+ },
+ {
+  "slug": "batalla-contigo-mismo",
+  "source": "Battle with yourself.png",
+  "name_es": "Batalla contigo mismo",
+  "size": "2400x1672",
+  "source_size": "10633x7408",
+  "alpha": true,
+  "keywords": "conflicto interno disciplina lucha battle yourself inner conflict"
+ },
+ {
+  "slug": "bebiendo",
+  "source": "Drinking.png",
+  "name_es": "Bebiendo",
+  "size": "921x2400",
+  "source_size": "1303x3394",
+  "alpha": true,
+  "keywords": "beber café bebida drinking coffee"
+ },
+ {
+  "slug": "bolsa-de-dinero",
+  "source": "Bag of money.png",
+  "name_es": "Bolsa de dinero",
+  "size": "2400x1645",
+  "source_size": "11776x8072",
+  "alpha": true,
+  "keywords": "bolsa dinero ahorro ganancia money bag savings profit"
+ },
+ {
+  "slug": "brazos-abiertos",
+  "source": "Open Arms.png",
+  "name_es": "Brazos abiertos",
+  "size": "1873x2400",
+  "source_size": "6371x8164",
+  "alpha": true,
+  "keywords": "brazos abiertos libertad éxito open arms success"
+ },
+ {
+  "slug": "brazos-abiertos-espaldas",
+  "source": "Open arms back.png",
+  "name_es": "Brazos abiertos, de espaldas",
+  "size": "1557x2400",
+  "source_size": "6751x10409",
+  "alpha": true,
+  "keywords": "brazos abiertos espaldas horizonte open arms back"
+ },
+ {
+  "slug": "brazos-cruzados",
+  "source": "Arms Cross.png",
+  "name_es": "Brazos cruzados",
+  "size": "1262x2400",
+  "source_size": "3565x6780",
+  "alpha": true,
+  "keywords": "hombre brazos cruzados serio seguro firme arms crossed confident"
+ },
+ {
+  "slug": "buscador",
+  "source": "Finder.png",
+  "name_es": "Buscador",
+  "size": "2400x1319",
+  "source_size": "4439x2439",
+  "alpha": true,
+  "keywords": "buscar lupa encontrar finder search magnifier"
+ },
+ {
+  "slug": "caminando",
+  "source": "Walking.png",
+  "name_es": "Caminando",
+  "size": "2400x1941",
+  "source_size": "10297x8328",
+  "alpha": true,
+  "keywords": "caminar avanzar walking forward"
+ },
+ {
+  "slug": "celular",
+  "source": "Cellphone.png",
+  "name_es": "Celular",
+  "size": "2400x2138",
+  "source_size": "8302x7396",
+  "alpha": true,
+  "keywords": "celular teléfono móvil app phone cellphone mobile"
+ },
+ {
+  "slug": "celular-sin-dedo",
+  "source": "Cellphone without finger.png",
+  "name_es": "Celular (sin dedo)",
+  "size": "1939x2400",
+  "source_size": "3508x4341",
+  "alpha": true,
+  "keywords": "celular teléfono móvil pantalla phone cellphone screen"
+ },
+ {
+  "slug": "circulo",
+  "source": "Cricle.png",
+  "name_es": "Círculo",
+  "size": "2400x1697",
+  "source_size": "11777x8328",
+  "alpha": true,
+  "keywords": "círculo forma marco circle shape frame"
+ },
+ {
+  "slug": "ciudad",
+  "source": "City.png",
+  "name_es": "Ciudad",
+  "size": "1697x2400",
+  "source_size": "8328x11776",
+  "alpha": true,
+  "keywords": "ciudad edificios skyline urbano city buildings"
+ },
+ {
+  "slug": "colina-rocosa",
+  "source": "Rock hill.png",
+  "name_es": "Colina rocosa",
+  "size": "2400x1450",
+  "source_size": "11777x7117",
+  "alpha": true,
+  "keywords": "colina roca subir rock hill climb"
+ },
+ {
+  "slug": "computador",
+  "source": "PC.png",
+  "name_es": "Computador",
+  "size": "2400x1495",
+  "source_size": "11776x7337",
+  "alpha": true,
+  "keywords": "computador pc pantalla trabajo computer pc screen"
+ },
+ {
+  "slug": "contemplativo",
+  "source": "Contemplative.png",
+  "name_es": "Contemplativo",
+  "size": "1273x2400",
+  "source_size": "2519x4748",
+  "alpha": true,
+  "keywords": "pensativo reflexión contemplar contemplative thinking"
+ },
+ {
+  "slug": "corredor",
+  "source": "Runner.png",
+  "name_es": "Corredor",
+  "size": "2117x2400",
+  "source_size": "2229x2527",
+  "alpha": true,
+  "keywords": "correr velocidad meta runner speed"
+ },
+ {
+  "slug": "corredor-frente",
+  "source": "Runner front.png",
+  "name_es": "Corredor de frente",
+  "size": "1100x2400",
+  "source_size": "1644x3588",
+  "alpha": true,
+  "keywords": "correr velocidad frente runner front speed"
+ },
+ {
+  "slug": "corriendo",
+  "source": "Running.png",
+  "name_es": "Corriendo",
+  "size": "1265x2400",
+  "source_size": "1798x3411",
+  "alpha": true,
+  "keywords": "correr prisa huir running hurry"
+ },
+ {
+  "slug": "cruce-de-calles",
+  "source": "Stret intercection.png",
+  "name_es": "Cruce de calles",
+  "size": "2400x1310",
+  "source_size": "4962x2708",
+  "alpha": true,
+  "keywords": "cruce calles decisión intersección street intersection decision"
+ },
+ {
+  "slug": "cuesta-arriba",
+  "source": "Up hill.png",
+  "name_es": "Cuesta arriba",
+  "size": "2400x1567",
+  "source_size": "11777x7691",
+  "alpha": true,
+  "keywords": "subir cuesta esfuerzo uphill effort"
+ },
+ {
+  "slug": "dados",
+  "source": "Dices.png",
+  "name_es": "Dados",
+  "size": "2400x2185",
+  "source_size": "8008x7291",
+  "alpha": true,
+  "keywords": "dados azar suerte riesgo apuesta dice luck gamble"
+ },
+ {
+  "slug": "dedo-para-celular",
+  "source": "Finguer for Cellphone.png",
+  "name_es": "Dedo para celular",
+  "size": "1980x2400",
+  "source_size": "3508x4252",
+  "alpha": true,
+  "keywords": "dedo tocar pantalla tap finger cellphone touch"
+ },
+ {
+  "slug": "dedos",
+  "source": "Finguers.png",
+  "name_es": "Dedos",
+  "size": "2400x1711",
+  "source_size": "8859x6314",
+  "alpha": true,
+  "keywords": "dedos mano gesto fingers hand gesture"
+ },
+ {
+  "slug": "dinero",
+  "source": "Money-1.png",
+  "name_es": "Dinero",
+  "size": "2384x2400",
+  "source_size": "6765x6809",
+  "alpha": true,
+  "keywords": "dinero billetes efectivo money cash"
+ },
+ {
+  "slug": "doble-mascara",
+  "source": "Double mask.png",
+  "name_es": "Doble máscara",
+  "size": "1748x2400",
+  "source_size": "5197x7134",
+  "alpha": true,
+  "keywords": "máscara doble cara hipocresía identidad mask two faces"
+ },
+ {
+  "slug": "doctor",
+  "source": "Doctor.png",
+  "name_es": "Doctor",
+  "size": "906x2400",
+  "source_size": "1260x3338",
+  "alpha": true,
+  "keywords": "doctor médico salud doctor health"
+ },
+ {
+  "slug": "dos-caminos",
+  "source": "Two roads.png",
+  "name_es": "Dos caminos",
+  "size": "2400x2254",
+  "source_size": "3509x3295",
+  "alpha": true,
+  "keywords": "caminos bifurcación decisión two roads fork decision"
+ },
+ {
+  "slug": "dos-caminos-vacio",
+  "source": "Two roads empty.png",
+  "name_es": "Dos caminos (vacío)",
+  "size": "2400x2254",
+  "source_size": "3509x3295",
+  "alpha": true,
+  "keywords": "caminos bifurcación plantilla two roads empty"
+ },
+ {
+  "slug": "dos-opciones",
+  "source": "Two options.png",
+  "name_es": "Dos opciones",
+  "size": "1475x2400",
+  "source_size": "2174x3537",
+  "alpha": true,
+  "keywords": "opciones elegir decisión two options choice"
+ },
+ {
+  "slug": "dos-opciones-vacio",
+  "source": "Two options empty.png",
+  "name_es": "Dos opciones (vacío)",
+  "size": "1475x2400",
+  "source_size": "2174x3537",
+  "alpha": true,
+  "keywords": "opciones elegir plantilla two options empty"
+ },
+ {
+  "slug": "elemento-1",
+  "source": "Asset 1.png",
+  "name_es": "Elemento suelto 1",
+  "size": "1468x2400",
+  "source_size": "2190x3580",
+  "alpha": true,
+  "keywords": "elemento decorativo asset"
+ },
+ {
+  "slug": "en-el-escritorio",
+  "source": "On desk.png",
+  "name_es": "En el escritorio",
+  "size": "1755x2400",
+  "source_size": "5876x8035",
+  "alpha": true,
+  "keywords": "escritorio trabajo oficina on desk work"
+ },
+ {
+  "slug": "enviando-correo",
+  "source": "Mailing.png",
+  "name_es": "Enviando correo",
+  "size": "1765x2400",
+  "source_size": "2246x3054",
+  "alpha": true,
+  "keywords": "correo email enviar mensaje mailing email"
+ },
+ {
+  "slug": "escena-sin-personaje",
+  "source": "Scene without character.png",
+  "name_es": "Escena sin personaje",
+  "size": "2400x936",
+  "source_size": "11015x4297",
+  "alpha": true,
+  "keywords": "escena fondo plantilla scene empty"
+ },
+ {
+  "slug": "fantasma",
+  "source": "Ghost.png",
+  "name_es": "Fantasma",
+  "size": "1793x2400",
+  "source_size": "8328x11149",
+  "alpha": true,
+  "keywords": "fantasma miedo invisible ghost fear"
+ },
+ {
+  "slug": "fantasma-2",
+  "source": "Ghost 2.png",
+  "name_es": "Fantasma 2",
+  "size": "1022x2400",
+  "source_size": "3919x9201",
+  "alpha": true,
+  "keywords": "fantasma miedo invisible ghost fear"
+ },
+ {
+  "slug": "firmando-contrato",
+  "source": "Signing contract.png",
+  "name_es": "Firmando contrato",
+  "size": "2400x1495",
+  "source_size": "9593x5974",
+  "alpha": true,
+  "keywords": "firmar contrato acuerdo documento signing contract"
+ },
+ {
+  "slug": "foco-de-luz",
+  "source": "Spotlight.png",
+  "name_es": "Foco de luz",
+  "size": "2400x1645",
+  "source_size": "11293x7741",
+  "alpha": true,
+  "keywords": "foco luz escenario atención spotlight stage"
+ },
+ {
+  "slug": "fondo-degradado",
+  "source": "BG.png",
+  "name_es": "Fondo degradado",
+  "size": "1697x2400",
+  "source_size": "3509x4962",
+  "alpha": true,
+  "keywords": "fondo degradado cian background gradient plate"
+ },
+ {
+  "slug": "fuerza-interior",
+  "source": "Inner strenght.png",
+  "name_es": "Fuerza interior",
+  "size": "1707x2400",
+  "source_size": "5050x7100",
+  "alpha": true,
+  "keywords": "fuerza interior motivación resiliencia inner strength"
+ },
+ {
+  "slug": "fumando",
+  "source": "Smoking.png",
+  "name_es": "Fumando",
+  "size": "852x2400",
+  "source_size": "1278x3600",
+  "alpha": true,
+  "keywords": "fumar vicio hábito smoking habit"
+ },
+ {
+  "slug": "gimnasio",
+  "source": "Gym.png",
+  "name_es": "Gimnasio",
+  "size": "2030x2400",
+  "source_size": "2485x2938",
+  "alpha": true,
+  "keywords": "gimnasio ejercicio disciplina pesas gym workout discipline"
+ },
+ {
+  "slug": "hombre-de-negocios",
+  "source": "Business man.png",
+  "name_es": "Hombre de negocios",
+  "size": "1441x2400",
+  "source_size": "5093x8483",
+  "alpha": true,
+  "keywords": "empresario maletín traje businessman briefcase suit"
+ },
+ {
+  "slug": "levantando",
+  "source": "Lifting.png",
+  "name_es": "Levantando",
+  "size": "1421x2400",
+  "source_size": "2311x3904",
+  "alpha": true,
+  "keywords": "levantar pesas esfuerzo fuerza lifting strength"
+ },
+ {
+  "slug": "leyendo-papel",
+  "source": "Reading paper.png",
+  "name_es": "Leyendo papel",
+  "size": "906x2400",
+  "source_size": "1260x3338",
+  "alpha": true,
+  "keywords": "leer documento informe reading paper report"
+ },
+ {
+  "slug": "libros-y-luz",
+  "source": "Books and light.png",
+  "name_es": "Libros y luz",
+  "size": "1258x2400",
+  "source_size": "2109x4024",
+  "alpha": true,
+  "keywords": "libros lectura conocimiento aprender books light knowledge"
+ },
+ {
+  "slug": "mano-lanzando",
+  "source": "Hand Throwing.png",
+  "name_es": "Mano lanzando",
+  "size": "2400x2185",
+  "source_size": "8008x7291",
+  "alpha": true,
+  "keywords": "mano lanzar tirar soltar hand throwing"
+ },
+ {
+  "slug": "mano-presentando",
+  "source": "Hand pitching.png",
+  "name_es": "Mano presentando",
+  "size": "2400x1594",
+  "source_size": "9643x6406",
+  "alpha": true,
+  "keywords": "mano presentar pitch ofrecer hand pitching offer"
+ },
+ {
+  "slug": "mano-que-ayuda",
+  "source": "Helping hand.png",
+  "name_es": "Mano que ayuda",
+  "size": "2400x1645",
+  "source_size": "11293x7741",
+  "alpha": true,
+  "keywords": "ayuda apoyo mano tendida helping hand support"
+ },
+ {
+  "slug": "mano-que-controla",
+  "source": "Controling hand.png",
+  "name_es": "Mano que controla",
+  "size": "1697x2400",
+  "source_size": "8328x11776",
+  "alpha": true,
+  "keywords": "control marioneta manipulación controlling hand puppet"
+ },
+ {
+  "slug": "mano-sin-dedos",
+  "source": "Hand without fingers.png",
+  "name_es": "Mano sin dedos",
+  "size": "2400x1711",
+  "source_size": "8859x6314",
+  "alpha": true,
+  "keywords": "mano base plantilla hand base"
+ },
+ {
+  "slug": "mano-sosteniendo",
+  "source": "Hand Holding.png",
+  "name_es": "Mano sosteniendo",
+  "size": "1529x2400",
+  "source_size": "4475x7023",
+  "alpha": true,
+  "keywords": "mano sostener mostrar objeto hand holding"
+ },
+ {
+  "slug": "manos",
+  "source": "Hands.png",
+  "name_es": "Manos",
+  "size": "2400x1686",
+  "source_size": "11777x8272",
+  "alpha": true,
+  "keywords": "manos gesto abiertas hands gesture"
+ },
+ {
+  "slug": "marioneta",
+  "source": "Puppet.png",
+  "name_es": "Marioneta",
+  "size": "2400x2138",
+  "source_size": "8302x7396",
+  "alpha": true,
+  "keywords": "marioneta control manipulación puppet control"
+ },
+ {
+  "slug": "mascara",
+  "source": "Mask.png",
+  "name_es": "Máscara",
+  "size": "1273x2400",
+  "source_size": "2519x4748",
+  "alpha": true,
+  "keywords": "máscara identidad ocultar mask identity hide"
+ },
+ {
+  "slug": "meditando",
+  "source": "Meditating.png",
+  "name_es": "Meditando",
+  "size": "1821x2400",
+  "source_size": "2829x3728",
+  "alpha": true,
+  "keywords": "meditar calma enfoque mente meditating calm focus"
+ },
+ {
+  "slug": "mirando-algo-grande",
+  "source": "Looking at something big.png",
+  "name_es": "Mirando algo grande",
+  "size": "1219x2400",
+  "source_size": "3331x6559",
+  "alpha": true,
+  "keywords": "mirar asombro grande reto looking big awe"
+ },
+ {
+  "slug": "montana-elementos",
+  "source": "Mountain assets.png",
+  "name_es": "Montaña, elementos",
+  "size": "2400x1315",
+  "source_size": "4962x2718",
+  "alpha": true,
+  "keywords": "montaña meta cima elementos mountain assets"
+ },
+ {
+  "slug": "montana-vacia",
+  "source": "Mountain empty.png",
+  "name_es": "Montaña vacía",
+  "size": "2400x1315",
+  "source_size": "4962x2718",
+  "alpha": true,
+  "keywords": "montaña meta cima plantilla mountain empty"
+ },
+ {
+  "slug": "mostrando",
+  "source": "Showing.png",
+  "name_es": "Mostrando",
+  "size": "1101x2400",
+  "source_size": "3856x8409",
+  "alpha": true,
+  "keywords": "mostrar presentar enseñar showing presenting"
+ },
+ {
+  "slug": "multitarea",
+  "source": "Multitasker.png",
+  "name_es": "Multitarea",
+  "size": "2020x2400",
+  "source_size": "2926x3477",
+  "alpha": true,
+  "keywords": "multitarea muchos brazos ocupado productividad multitasker busy"
+ },
+ {
+  "slug": "multitarea-sentado",
+  "source": "Multitasker sit.png",
+  "name_es": "Multitarea sentado",
+  "size": "2384x2400",
+  "source_size": "6765x6809",
+  "alpha": true,
+  "keywords": "multitarea sentado ocupado multitasker sitting busy"
+ },
+ {
+  "slug": "multitarea-vacio",
+  "source": "Multitasker empty.png",
+  "name_es": "Multitarea (vacío)",
+  "size": "2020x2400",
+  "source_size": "2926x3477",
+  "alpha": true,
+  "keywords": "multitarea brazos plantilla multitasker empty"
+ },
+ {
+  "slug": "nubes",
+  "source": "Clouds.png",
+  "name_es": "Nubes",
+  "size": "2400x1522",
+  "source_size": "11777x7471",
+  "alpha": true,
+  "keywords": "nubes cielo sueño clouds sky"
+ },
+ {
+  "slug": "paisaje",
+  "source": "Landscape.png",
+  "name_es": "Paisaje",
+  "size": "2400x1475",
+  "source_size": "11777x7240",
+  "alpha": true,
+  "keywords": "paisaje horizonte naturaleza landscape"
+ },
+ {
+  "slug": "paisaje-escena",
+  "source": "Landscape scene.png",
+  "name_es": "Paisaje, escena",
+  "size": "2400x1470",
+  "source_size": "11777x7212",
+  "alpha": true,
+  "keywords": "paisaje escena montaña camino landscape scene"
+ },
+ {
+  "slug": "paisaje-nubes",
+  "source": "Landscape clouds.png",
+  "name_es": "Paisaje con nubes",
+  "size": "2400x1470",
+  "source_size": "11777x7212",
+  "alpha": true,
+  "keywords": "paisaje nubes horizonte landscape clouds"
+ },
+ {
+  "slug": "paraguas",
+  "source": "Umbrella.png",
+  "name_es": "Paraguas",
+  "size": "1426x2400",
+  "source_size": "2382x4009",
+  "alpha": true,
+  "keywords": "paraguas protección lluvia umbrella protection"
+ },
+ {
+  "slug": "pensando",
+  "source": "Thinking.png",
+  "name_es": "Pensando",
+  "size": "1468x2400",
+  "source_size": "2190x3580",
+  "alpha": true,
+  "keywords": "pensar idea reflexión thinking idea"
+ },
+ {
+  "slug": "peso-del-dinero",
+  "source": "Money Weight.png",
+  "name_es": "Peso del dinero",
+  "size": "1608x2400",
+  "source_size": "1975x2948",
+  "alpha": true,
+  "keywords": "dinero peso carga deuda money weight burden debt"
+ },
+ {
+  "slug": "podio",
+  "source": "Podium.png",
+  "name_es": "Podio",
+  "size": "1697x2400",
+  "source_size": "8328x11776",
+  "alpha": true,
+  "keywords": "podio discurso presentación podium speech"
+ },
+ {
+  "slug": "publico-1",
+  "source": "Audience 1.png",
+  "name_es": "Público 1",
+  "size": "1697x2400",
+  "source_size": "8328x11776",
+  "alpha": true,
+  "keywords": "audiencia público espectadores multitud audience crowd"
+ },
+ {
+  "slug": "publico-2",
+  "source": "Audience 2.png",
+  "name_es": "Público 2",
+  "size": "1697x2400",
+  "source_size": "8328x11776",
+  "alpha": true,
+  "keywords": "audiencia público espectadores multitud audience crowd"
+ },
+ {
+  "slug": "publico-3",
+  "source": "Audience 3.png",
+  "name_es": "Público 3",
+  "size": "1697x2400",
+  "source_size": "8328x11776",
+  "alpha": true,
+  "keywords": "audiencia público espectadores multitud audience crowd"
+ },
+ {
+  "slug": "quieto",
+  "source": "Still.png",
+  "name_es": "Quieto",
+  "size": "1582x2400",
+  "source_size": "6491x9847",
+  "alpha": true,
+  "keywords": "quieto inmóvil espera still waiting"
+ },
+ {
+  "slug": "rechazado",
+  "source": "Rejected.png",
+  "name_es": "Rechazado",
+  "size": "2400x1594",
+  "source_size": "9643x6406",
+  "alpha": true,
+  "keywords": "rechazo no negativa rejected no"
+ },
+ {
+  "slug": "reflejo-en-espejo",
+  "source": "Mirror reflection.png",
+  "name_es": "Reflejo en espejo",
+  "size": "2400x1895",
+  "source_size": "7865x6210",
+  "alpha": true,
+  "keywords": "espejo reflejo identidad mirror reflection"
+ },
+ {
+  "slug": "relajado",
+  "source": "Relaxed.png",
+  "name_es": "Relajado",
+  "size": "1697x2400",
+  "source_size": "8328x11776",
+  "alpha": true,
+  "keywords": "relajado descanso tranquilo relaxed rest"
+ },
+ {
+  "slug": "reloj-de-arena",
+  "source": "Sand clock.png",
+  "name_es": "Reloj de arena",
+  "size": "1273x2400",
+  "source_size": "5662x10675",
+  "alpha": true,
+  "keywords": "tiempo reloj arena plazo sand clock hourglass time"
+ },
+ {
+  "slug": "reunion-con-laptop",
+  "source": "Sitting meeting with laptop.png",
+  "name_es": "Reunión con laptop",
+  "size": "2400x1854",
+  "source_size": "7066x5458",
+  "alpha": true,
+  "keywords": "reunión laptop sentado meeting laptop"
+ },
+ {
+  "slug": "rompiendo-cadenas",
+  "source": "Breaking Chains.png",
+  "name_es": "Rompiendo cadenas",
+  "size": "1240x2400",
+  "source_size": "4862x9412",
+  "alpha": true,
+  "keywords": "libertad romper cadenas liberarse breaking chains freedom"
+ },
+ {
+  "slug": "sacando-espada",
+  "source": "Pulling Sword.png",
+  "name_es": "Sacando espada",
+  "size": "1591x2400",
+  "source_size": "3710x5597",
+  "alpha": true,
+  "keywords": "espada valor decisión pulling sword courage"
+ },
+ {
+  "slug": "seguro",
+  "source": "Confident.png",
+  "name_es": "Seguro",
+  "size": "1444x2400",
+  "source_size": "2175x3615",
+  "alpha": true,
+  "keywords": "hombre seguro confianza postura confident posture"
+ },
+ {
+  "slug": "seguro-de-espaldas",
+  "source": "Confident back.png",
+  "name_es": "Seguro, de espaldas",
+  "size": "1024x2400",
+  "source_size": "1497x3508",
+  "alpha": true,
+  "keywords": "hombre de espaldas seguro mirando lejos confident back view"
+ },
+ {
+  "slug": "senalando",
+  "source": "Pointing.png",
+  "name_es": "Señalando",
+  "size": "1569x2400",
+  "source_size": "2717x4155",
+  "alpha": true,
+  "keywords": "señalar indicar dirección pointing"
+ },
+ {
+  "slug": "senalando-arriba",
+  "source": "Pointing up.png",
+  "name_es": "Señalando arriba",
+  "size": "1100x2400",
+  "source_size": "1922x4192",
+  "alpha": true,
+  "keywords": "señalar arriba idea crecimiento pointing up"
+ },
+ {
+  "slug": "sentado-frente-al-pc",
+  "source": "Sitting in front PC.png",
+  "name_es": "Sentado frente al PC",
+  "size": "2400x2361",
+  "source_size": "2400x2361",
+  "alpha": true,
+  "keywords": "sentado computador trabajo sitting pc work"
+ },
+ {
+  "slug": "serio",
+  "source": "Serious.png",
+  "name_es": "Serio",
+  "size": "784x2400",
+  "source_size": "1445x4425",
+  "alpha": true,
+  "keywords": "serio firme expresión serious"
+ },
+ {
+  "slug": "simbolo-dolar",
+  "source": "$.png",
+  "name_es": "Símbolo de dólar",
+  "size": "1821x2400",
+  "source_size": "2829x3728",
+  "alpha": true,
+  "keywords": "dinero dólar precio ingresos money dollar price"
+ },
+ {
+  "slug": "sin-dormir",
+  "source": "Sleepless.png",
+  "name_es": "Sin dormir",
+  "size": "2400x2050",
+  "source_size": "8328x7114",
+  "alpha": true,
+  "keywords": "insomnio cansancio noche sleepless tired"
+ },
+ {
+  "slug": "socios-sentados",
+  "source": "Partners sitting.png",
+  "name_es": "Socios sentados",
+  "size": "2400x1854",
+  "source_size": "7066x5458",
+  "alpha": true,
+  "keywords": "socios reunión sentados partners meeting"
+ },
+ {
+  "slug": "sofa",
+  "source": "Couch.png",
+  "name_es": "Sofá",
+  "size": "2400x1854",
+  "source_size": "7066x5458",
+  "alpha": true,
+  "keywords": "sofá descanso pereza couch sofa rest"
+ },
+ {
+  "slug": "sombra",
+  "source": "Shadow.png",
+  "name_es": "Sombra",
+  "size": "1070x2400",
+  "source_size": "1644x3689",
+  "alpha": true,
+  "keywords": "sombra silueta shadow silhouette"
+ },
+ {
+  "slug": "sosteniendo",
+  "source": "Holding.png",
+  "name_es": "Sosteniendo",
+  "size": "2400x1567",
+  "source_size": "11777x7691",
+  "alpha": true,
+  "keywords": "sostener cargar objeto holding carrying"
+ },
+ {
+  "slug": "sosteniendo-dinero",
+  "source": "Holding money.png",
+  "name_es": "Sosteniendo dinero",
+  "size": "2400x1645",
+  "source_size": "11776x8072",
+  "alpha": true,
+  "keywords": "dinero billetes mano ganancia holding money cash"
+ },
+ {
+  "slug": "super-fuerza",
+  "source": "Super Strenght.png",
+  "name_es": "Súper fuerza",
+  "size": "1931x2400",
+  "source_size": "6546x8135",
+  "alpha": true,
+  "keywords": "fuerza poder superhéroe super strength power"
+ },
+ {
+  "slug": "taladrando",
+  "source": "Drilling.png",
+  "name_es": "Taladrando",
+  "size": "2400x1062",
+  "source_size": "4592x2032",
+  "alpha": true,
+  "keywords": "taladro trabajo construcción esfuerzo drilling work"
+ },
+ {
+  "slug": "trato",
+  "source": "Deal-1.png",
+  "name_es": "Trato",
+  "size": "1719x2400",
+  "source_size": "2325x3247",
+  "alpha": true,
+  "keywords": "trato acuerdo apretón de manos deal handshake agreement"
+ },
+ {
+  "slug": "tuerca",
+  "source": "Nut.png",
+  "name_es": "Tuerca",
+  "size": "2400x1567",
+  "source_size": "11777x7691",
+  "alpha": true,
+  "keywords": "tuerca engranaje mecánica nut gear"
+ },
+ {
+  "slug": "ventana-pequena",
+  "source": "Small window.png",
+  "name_es": "Ventana pequeña",
+  "size": "1557x2400",
+  "source_size": "6751x10409",
+  "alpha": true,
+  "keywords": "ventana luz esperanza small window light"
+ },
+ {
+  "slug": "ventanas",
+  "source": "Windows.png",
+  "name_es": "Ventanas",
+  "size": "1697x2400",
+  "source_size": "8328x11776",
+  "alpha": true,
+  "keywords": "ventanas oficina edificio windows office"
+ },
+ {
+  "slug": "vigoroso",
+  "source": "Vigorous.png",
+  "name_es": "Vigoroso",
+  "size": "1093x2400",
+  "source_size": "4283x9402",
+  "alpha": true,
+  "keywords": "energía vigor fuerza vigorous energy"
+ }
+]

@@ -1,0 +1,212 @@
+ 
+ IG Competitor Research — 2026-09-14 
+ 🔬 ">
+Instagram Competitor Research 
+What's working in the niche 
+ 4 accounts 12 posts last 7 days ranked by likes 🔥 breakout = likes ÷ creator median 2026-09-14 
+Pattern 
+La semana la manda la noticia de modelo: nueve de las doce piezas abren con una herramienta nombrada (Claude, Fable 5.1, GPT 6 Astra, Grok, Claude Code) más una afirmación que pica ("Claude acaba de matar a los diseñadores web", "Astra le gana a Fable pero no en lo que tú crees"), y luego lo prueban con grabación de pantalla. El motor de comentarios es el peaje: los tres reels de @nateherkai y los tres de @soyenriquerocha cierran con "comenta X y te lo mando" y concentran casi todos los comentarios del pool (13.568 en el #2, 19,8× su mediana); si tu marca no usa el cebo "comenta X" (en el estudio original quedaba fuera por una regla de estilo propia), lo que se copia igualmente es el orden gancho → prueba en pantalla → recurso. @crece30x rompe por otro lado: carruseles de criterio de CEO sin herramientas (persistencia muda 16,6×, "un CEO solo tiene 3 trabajos" con autoexamen binario), muchos likes y casi cero comentarios, cierre "sígueme". @lucianomusellaa existe y publica (7 reels), pero sus entrevistas de evento no rompen; @juanbertorello.ai no devolvió nada (el actor responde "Post does not exist": handle inexistente o cambiado, verificar a mano). 
+=== ARTICLE ===
+ #1 
+ ‹ › 1 / 4 
+ [https://www.instagram.com/p/DdFwzr_qKes/] ▶ View on Instagram 
+ @soyenriquerocha Reel 
+ ♥ 13,237 🔥 7.3× breakout 💬 3,513 Sep 10, 2026 
+Hook · spoken + text 
+Todos los que programamos con Cloud sabemos que se nos acaba media semana, y la solución 
+Format talking head, screen-recording demo 
+Breakdown 
+A creator explains how pairing Claude Code with OpenAI's Codex plugin (Claude as the 'boss', Codex as the 'worker') splits programming work and cuts token spend, illustrated with reaction-meme cutaways and a screen recording of the actual plugin install steps. 
+ Transcript Copy 
+Todos los que programamos con Cloud sabemos que se nos acaba media semana, y la solución no es pagar más, porque lo que todos estamos haciendo es meter Codex al juego, sí, el Open AI, el de ChatGPT, adentro Cloud siendo el jefe, y Codex siendo el trabajador, porque los dos al final comen muchísimas tokens, pero si lo pones a tornarse el trabajo, cada uno hace su parte muy bien, y al final trabajando juntos gastan menos, porque la guerra entre cuales mejor quedó en el pasado mejor ponlos a trabajar en equipo, y literalmente solo son tres líneas que le pasas a CloudColf, que de hecho es un plugin oficial de Open AI, ChatGPT, que te deja trabajar con Cloud y Codex juntos, y muchos van a decir que necesitas los dos planes más caros, cuando la verdad es mentira, porque esta conexión la puedes usar con el plan de ChatGPT gratis, así que no te preocupes, puedes tener la cuenta de Cloud de 20 y la gratis de ChatGPT y empezar a trabajar, y si quieres una guía para cómo configurar tu Cloud, para que use ChatGPT para trabajar, comenta, para que lo vas a usar, que vas a construir y te la paso, y si te gustó no olvides seguir mi compartirlo con alguien que lo necesita. 
+Why it worked 
+A fake-sounding on-screen text overlay ('GPT6 Astra + Fable5.1') baits curiosity over the creator's face from frame one, while the spoken hook names a real shared pain (Claude burning through the coding week) and promises a fix instead of a paid upgrade; the screen-recorded install commands near the end back the claim with proof, and the comment-for-guide close (Rule-7-style keyword ask) drives the 3.5k comments. 
+=== ARTICLE ===
+ #2 
+ ‹ › 1 / 4 
+ [https://www.instagram.com/p/DdJ5ynbDxqS/] ▶ View on Instagram 
+ @nateherkai Reel 
+ ♥ 8,049 🔥 19.8× breakout 💬 13,568 Sep 11, 2026 
+Hook · spoken + text 
+So Claude just killed web designers, because it can now build websites that actually look professionally designed. 
+Format talking head + screen-recording demo 
+Breakdown 
+A creator narrates a step-by-step setup for making Claude build polished websites (design skills + Figma MCP + Playwright), cut against a fast montage of slick AI-generated site mockups. 
+ Transcript Copy 
+So Claude just killed web designers, because it can now build websites that actually look professionally designed. Here's how. First, add the Emil Kowalski design and impeccable skills to Claude. These give it rules for things like typography, spacing, layouts, and animations. Then add the taste skill, so it can reference great websites instead of giving you that generic AI look. Finally, connect Figma MCP and Playwrights so that Claude can actually design, build, and test and screenshot what it creates. Now you can describe the website you want in plain English, and then just let it handle the rest. So comment die, and I'll send you the full setup. 
+Why it worked 
+The hook makes a bold claim ("killed web designers") over a glossy screen-recording montage, and every claim in the narration is echoed as bold synced on-screen captions (KILLED, BECAUSE IT CAN, NOW BUILD websites), which keeps the promise visible even muted; the payoff (the exact tool list) is withheld behind a comment-to-DM CTA. 
+=== ARTICLE ===
+ #3 
+ ‹ › 1 / 2 
+ [https://www.instagram.com/p/DdMzEhTCJTU/] ▶ View on Instagram 
+ @crece30x Carousel 
+ ♥ 4,196 🔥 16.6× breakout 💬 3 Sep 12, 2026 
+Hook · on-screen text 
+Uno de todos esos intentos va a salir 
+Format narrative comic strip 
+Breakdown 
+A 4-panel comic shows a kid writing, crumpling failed drafts into a growing pile, then pulling a glowing diamond out of that same pile, illustrating that one of many attempts finally pays off, followed by a text closer asking the viewer to follow before they lose the account. 
+ Slide Text Copy 
+Slide 1 (4-panel comic): Uno de / Todos esos / Intentos / Va a SALIR — [30X logo]. Slide 2 (closer): Probablemente nunca volverás a ver esta cuenta. Así que síguenos para aprender de los mejores. @crece30x 
+Why it worked 
+The wordless panel progression makes the payoff of persistence visually obvious without narration, and the closer slide converts that feeling straight into a follow ask by framing the scroll-away as a permanent loss ("probablemente nunca volverás a ver esta cuenta"). 
+=== ARTICLE ===
+ #4 
+ ‹ › 1 / 4 
+ [https://www.instagram.com/p/DdKRjItSX1W/] ▶ View on Instagram 
+ @soyenriquerocha Reel 
+ ♥ 3,653 2× breakout 💬 660 Sep 11, 2026 
+Hook · spoken + text 
+ChargePT 6 Astra le gana a fable 5.1, pero no en lo que tu crees, porque ahora con una 
+Format talking head product demo 
+Breakdown 
+A talking-head AI-tool review claiming the new ChatGPT-6 Astra model beats Google's Fable 5.1 for creative work, demoed live through the Higgsfield plugin to turn one product photo into images, animations, a UGC video and a full website design. 
+ Transcript Copy 
+ChargePT 6 Astra le gana a fable 5.1, pero no en lo que tu crees, porque ahora con una simple foto de tu producto puedes disenar tu pagina, hacer animaciones, videos sugc, fotos profesionales y mas, todo con el nuevo modelo ChargePT 6 Astra, y te lo hice alguien que vive con cloud, y aun asi mira todo lo que hice, porque cloud no dibuja y no genera sus propias imagenes, y ChargePT si, y con su nuevo modelo ChargePT 6 Astra y Image 2.5 se sale del juego, porque con lo creativo no hay comparacion y por eso uso los 2 diarios, y ahora combinando toda esa creatividad con mi plugin favorito de Higgsul, que de hecho conectarlo a un ChargePT es facilisimo, le picas a plugins, buscas Higgsul y listo, ahora escoges el modelo Astra 6, la abientas una foto de tu producto y dejas que la magia suceda, le dices polor una mesa moderna con una luz de tarde, dame 3 versiones y pum, las tienes listas, ahora genera mi animaciones interactivas para post de instagram, y listo, ahora genera mi video sugc, te abatas ensenando mi producto y usandolo en el dia a dia, y 1, 2, 3 y listo, y ya con toda esta informacion le sueltas el prompt maestro, Astra ayudame a disenar mi pagina web tienda completa de mi producto, y Astra se pone a trabajar y te la prepara lista y te la disena en el momento, y cuando te guste como quedo solo dile ayudame a subir la internet, a Shopify o pasas en la cloud para que dense encargue de lo complicado, porque ahora la regla es disenar con ChargePT y construir y desarrollar un cloud, y si tienes un producto y quieres llegar a hacer todo esto al punto de hacer tu pagina web o tu tienda, comenta que producto tienes, como usarias esto y te la paso y si te gusto no olvides seguirme y compartirlo con alguien que lo necesita. 
+Why it worked 
+The hook picks a fight with a rival AI model right away ('le gana a fable 5.1, pero no en lo que tu crees') to create curiosity, then the whole video pays it off as a step-by-step, replicable workflow (open plugin, pick Astra 6, upload photo, prompt) rather than just claims, closing on a comment-your-product CTA that turns viewers into leads. 
+=== ARTICLE ===
+ #5 
+ ‹ › 1 / 4 
+ [https://www.instagram.com/p/DdQd_znClDr/] ▶ View on Instagram 
+ @soyenriquerocha Reel 
+ ♥ 2,419 1.3× breakout 💬 1,073 Sep 14, 2026 
+Hook · spoken + text 
+Si usas Cloud, sabes que sus disenos a veces son basura, pero eso se arregla con UI UX Pro Max, Impeccable, Taste, Skill, Awesome Design punto MD y Design MD de Google. 
+Format talking head + screen-recording demo 
+Breakdown 
+A creator lists a stack of free Claude Code skills and plugins that fix generic, AI-looking designs and text, cutting between talking-head delivery and screen recordings of each tool's GitHub README as proof. 
+ Transcript Copy 
+Si usas Cloud, sabes que sus disenos a veces son basura, pero eso se arregla con UI UX Pro Max, Impeccable, Taste, Skill, Awesome Design punto MD y Design MD de Google. Y si quieres disenar presentaciones, Frontend Slides y para diagramas, Diagram Design. Y no olvidemos del texto que eso se arregla con Humanizer, Understanding Anything y Stop the Slop. Todas estas herramientas para parar toda la basura de inteligencia artificial y comenzar a hacer las cosas bien hechas. Y si quieres el paso a paso de como configurar todas estas herramientas en tu Cloud, comenta cual de estas te gusta, en que la vas a usar y te la paso. Si te gusto no olvides seguirme y compartirlo con alguien que lo necesita. 
+Why it worked 
+The hook names a shared pain point (Claude's default designs look like AI slop) and immediately rapid-fires a list of named, installable fixes, which the screen-recording cutaways make concrete and credible; a comment-to-DM CTA converts that curiosity into engagement. 
+=== ARTICLE ===
+ #6 
+ ‹ › 1 / 9 
+ [https://www.instagram.com/p/DdPNh7dCE1F/] ▶ View on Instagram 
+ @crece30x Carousel 
+ ♥ 2,191 🔥 8.6× breakout 💬 3 Sep 13, 2026 
+Hook · on-screen text 
+7 Hábitos de CEOS altamente efectivos 
+Format listicle / tips 
+Breakdown 
+Un listicle de 7 hábitos de CEOs (energía, autoexigencia, ejercicio, lectura/mentalidad, descanso, salud, relaciones), cada uno con foto de stock o de Mark Zuckerberg como ejemplo y una frase explicativa debajo del titular numerado. 
+ Slide Text Copy 
+SLIDE 1 (portada): 7 Hábitos de CEOS altamente efectivos | SLIDE 2: 1 - Tratar la energía como activo valioso. Organizar el día de los picos de energía, priorizando tareas exigentes en los momentos de mayor disposición. | SLIDE 3: 2 - Crear mecanismos de autoexigencia. Crear sistemas de responsabilidad, como entrenadores, grupos y revisiones periódicas mantienen consistencia. | SLIDE 4: 3 - Priorizar la condición física. La confición física fortalece la resiliencia, mejora la cognición y aumenta la tolerancia al estrés. | SLIDE 5: 4 - Dedicarse a la "Academia mental". Ejercicios mentales como atención plena y escrita en diarios ayudan a formar líderes más atractivos y eficaces. | SLIDE 6: 5 - Equilibrar el descanso y la restauración. El crecimiento se produce en la recuperación, con una rutina de trabajo, pausas estratégicas y sueño de calidad. | SLIDE 7: 6 - Tratar su salud como un negocio. La longevidad, ya sea en los negocios o en la salud, nunca se deja al azar y debe ser monitoreada estratégicamente. | SLIDE 8: 7 - Tener pasatiempos y relaciones. Los cónyugues, los hijos y amigos ayudan a mantener las raíces, y los pasatiempos reducen el estrés y estimulan la creatividad. | SLIDE 9 (cierre): @crece30x. Probablemente nunca volverás a ver esta cuenta... Así que síguenos para aprender de los mejores. @crece30x 
+Why it worked 
+Formato listicle clásico y fácil de escanear (números grandes, una idea por slide, texto corto), con la figura reconocible de Zuckerberg como gancho visual de autoridad y un cierre que empuja directamente a seguir la cuenta. 
+=== ARTICLE ===
+ #7 
+ ‹ › 1 / 4 
+ [https://www.instagram.com/p/DdE3AyeDZ11/] ▶ View on Instagram 
+ @nateherkai Reel 
+ ♥ 1,378 🔥 3.4× breakout 💬 3,180 Sep 9, 2026 
+Hook · spoken + text 
+Someone just turned Apple's entire design language into a Claude skill and you can use it to completely upgrade your website. 
+Format talking head, screen recording demo 
+Breakdown 
+A talking-head creator walks through a 3-step method for using a custom Claude skill that applies Apple's design principles to audit and redesign an existing website, with a split-screen showing screen recordings of the GitHub repo, a magnified design article, and a before/after website demo above him. 
+ Transcript Copy 
+Someone just turned Apple's entire design language into a Claude skill and you can use it to completely upgrade your website. Here's how. First, just install the Apple design skill into Claude. Then give Claude your existing website and ask it to audit the design using Apple's principles. It'll go through things like your typography, spacing, hierarchy, layout, and interactions and show you exactly what feels off. Then you ask Claude to actually apply those improvements to your actual site. So you're not telling Claude to just make it look like Apple. You're giving it the actual design principles behind why Apple's products feel so polished. And you can use those same principles to improve almost any website you've already built. So just comment Apple and I'll send you the skill. 
+Why it worked 
+The hook stacks a recognizable brand (Apple) with a trending tool (Claude skills) and a concrete promise (upgrade your website), then the split-screen screen-recordings prove the method is real and repeatable rather than abstract advice, ending on a comment-to-unlock CTA that drives the 3,180 comments. 
+=== ARTICLE ===
+ #8 
+ ‹ › 1 / 4 
+ [https://www.instagram.com/p/DdMee-FiTaC/] ▶ View on Instagram 
+ @nateherkai Reel 
+ ♥ 1,047 2.6× breakout 💬 1,340 Sep 12, 2026 
+Hook · spoken + text 
+Don't use cloud code until you've installed these five plugins. 
+Format talking head, screen-recording listicle 
+Breakdown 
+A talking-head listicle naming five Claude Code plugins one by one, each backed by a quick screen-recorded shot of the actual tool interface, closing on a comment-to-receive CTA. 
+ Transcript Copy 
+Don't use cloud code until you've installed these five plugins. First is OmniRoute. It connects cloud code to over 200 free AI API providers and can automatically switch models when you hit your limits. Second is Cloud Mem. It gives cloud memory across sessions so it can remember your projects and your files without you constantly having to re-explain everything over again. Third is Headroom. It compresses your context and removes unnecessary information so cloud can get the same work done using fewer tokens. Fourth is Cloud Code Setup. It's an official, anthropic plugin that scans your code base and recommends the best skills, hooks, sub-agents, and MCP servers for your project. And fifth is Task Observer. It watches how you work and it uses that information to continuously improve your other skills and the background. So just comment plugins and I'll send you all five. 
+Why it worked 
+The spoken hook pairs with a numbered #1-#5 on-screen graphic that pre-shows the full list before revealing it, so the viewer stays to see all five; the screen-recording cutaways for each tool add proof the recommendation is real, and the comment-gated payoff converts that curiosity into engagement. 
+=== ARTICLE ===
+ #9 
+ ‹ › 1 / 10 
+ [https://www.instagram.com/p/DdPpAF8CKrD/] ▶ View on Instagram 
+ @crece30x Carousel 
+ ♥ 861 🔥 3.4× breakout 💬 2 Sep 13, 2026 
+Hook · on-screen text 
+Un CEO solo tiene 3 trabajos. 
+Format listicle / framework breakdown 
+Breakdown 
+A 10-slide framework carousel that reduces the CEO role to exactly 3 jobs (build the team, protect the money, define the direction) and gives the founder a self-diagnostic test and checklist for each one. 
+ Slide Text Copy 
+Slide 1: Un CEO solo tiene 3 trabajos. Todo lo demás le pertenece a tu equipo.
+Slide 2: La mayoría de dueños hacen 47 cosas por semana. Un CEO hace 3. Si no puedes nombrar esas 3, eres un operador sentado en una silla de CEO. Aquí están, y esta es la prueba para cada una.
+Slide 3: Trabajo 1: Construir el equipo. Tu único trabajo es contratar personas mejores que tú en lo que hacen. Después, quítate de su camino. Si todavía estás metido en todo, una de estas dos cosas es cierta: 1. Contrataste mal. 2. Contrataste bien, pero no les diste las condiciones para ganar.
+Slide 4: Si tu mejor persona renuncia mañana, ¿entrarías en pánico? No = Contrataste mal. Inicia de nuevo. Sí = Contrataste bien. Tu trabajo esta semana es eliminar todos los obstáculos de su camino. Contratar es tu única tarea irremplazable. Todo lo demás puede delegarse.
+Slide 5: Trabajo 2: Proteger la casa. Sigues en el juego mientras tengas dinero en el banco. Si estás estresado por los ingresos cada semana: Eres un contador. No un CEO. Tu sistema tiene 3 partes. Créalo. Hazlo crecer. Consérvalo.
+Slide 6: Cada mes, responde estas 3 preguntas en menos de 5 minutos: 1. ¿Los ingresos han alcanzado la meta? (Créalo) 2. ¿Los ingresos están creciendo frente al trimestre pasado? (Házlo crecer) 3. ¿El margen de ganancia se mantiene o aumenta? (Consérvalo) ¿No puedes responder en 5 minutos? No tienes un sistema. Tienes un trabajo de contador.
+Slide 7: Trabajo 3: Definir las coordenadas. Sin destino, ningún GPS puede salvarte. Tu equipo necesita 2 cosas de ti: Hacia dónde van, y cómo se toman decisiones sin ti. Si te llaman por cosas pequeñas, tu visión no está clara. Guardaste la estrategia en tu cabeza en lugar de comunicarla a la empresa.
+Slide 8: Házle la misma pregunta a 3 personas de tu equipo: "¿Hacia dónde vamos en los próximos 12 meses?" Tres respuestas diferentes = no lo tienen claro. Tú sí. La misma respuesta de los 3 = hiciste bien tu trabajo. Escribe la visión. Publícala. Léanla en voz alta cada semana hasta que puedan terminar la frase antes que tú.
+Slide 9: Construye el equipo. Protege el dinero. Define las coordenadas. Ese es todo el trabajo. Todo lo demás que haces es "robo". A tu equipo. A tu empresa. Y a ti mismo.
+Slide 10: Probablemente nunca volverás a ver esta cuenta... Así que síguenos para aprender de los mejores. @crece30x 
+Why it worked 
+It works because each of the 3 jobs pairs a blunt, binary self-test (renuncia mañana test, the 5-minute financial checklist, the ask-3-people-the-same-question test) with a clear verdict ('eres un contador, no un CEO'), turning an abstract leadership claim into something the reader can score themselves against immediately. 
+=== ARTICLE ===
+ #10 
+ ‹ › 1 / 4 
+ [https://www.instagram.com/p/DdFZHY2JuMr/] ▶ View on Instagram 
+ @lucianomusellaa Reel 
+ ♥ 118 🔥 3.1× breakout 💬 3 Sep 9, 2026 
+Hook · spoken + text 
+Iron Musk acaba de matar a todos los equipos de trabajo tradicional y no tiene nada que ver con crear un chatbot más inteligente. 
+Format talking head + screen-recording demo 
+Breakdown 
+A talking-head creator explains xAI's new Grok multi-agent system, where separate AI agents research, write, and coordinate like a real team, and cuts to a screen recording of the actual Grok CLI running that workflow. 
+ Transcript Copy 
+Iron Musk acaba de matar a todos los equipos de trabajo tradicional y no tiene nada que ver con crear un chatbot más inteligente. Acaba de crear un sistema donde varios agentes pueden trabajar juntos, hablar entre ellos y repartirse tareas como lo haría un equipo real. Por ejemplo, puedes tener una gente encargada de investigar, otro va a ser el que escribe, otro el que coordina todo el proyecto y no tienes que estar tú pasando información de un lado al otro. Los agentes pueden pasarse las tareas entre sí y coordinan absolutamente todo. Pero hay otra parte que me parece mucho más interesante. Estos agentes no solamente van a responder mensajes, también pueden conectarse con todas las herramientas que tú utilices, entrar a las páginas web, ejecutar tareas y volver el trabajo que tú pediste termina. Incluso tú le puedes enseñar toda una tarea directamente desde tu pantalla. Haces el proceso una vez y el agente va a aprender exactamente tú cómo lo haces y lo vas a ejecutar. Pero lo más importante es que la gente entienda tu negocio, tus procesos, tus objetivos y tú cómo trabajas. Y es poder diseñar toda la arquitectura entre ellos para saber exactamente quién ejecuta qué tarea. Y ahí justamente es cuando dejas utilizar Internet artificial como una herramienta y empiezas a construir todo un equipo alrededor de él. En día de este vídeo te hablo que se la pasa a hablar de agentes y sígueme si quieres seguir aprendiendo mucho más y tener interdicción. 
+Why it worked 
+The hook pairs a photoshopped Elon Musk looming behind the creator with the bold on-screen text 'ELON MUSK acabó con TODO', framing a big authority claim, then earns it by naming concrete agent roles (researcher, writer, coordinator) and cutting to a real terminal screen-recording of the Grok CLI executing the multi-agent task, so the claim gets proof instead of staying abstract. 
+=== ARTICLE ===
+ #11 
+ ‹ › 1 / 4 
+ [https://www.instagram.com/p/DdCy4DrJUeq/] ▶ View on Instagram 
+ @lucianomusellaa Reel 
+ ♥ 79 2.1× breakout 💬 11 Sep 8, 2026 
+Hook · spoken + text 
+Absoluta y total, o sea, la realidad es que es como volverán a seres. 
+Format walking interview clip (vox pop) 
+Breakdown 
+A black-and-white walking-interview clip at a tech/AI summit where the creator interviews Ammiel Manevich, co-founder of Copiloto (a LatAm entrepreneur education community), about his career pivot from restaurants to building an entrepreneur community and podcast. 
+ Transcript Copy 
+absoluta y total, o sea, la realidad es que es como volverán a seres. Otra industria, otro rubro, me ha tocado aprender hasta aprender hasta un nuevo lenguaje, ¿me entendés? ¿Qué estamos con, Amiel? Yo soy uno de los fundadores de Copiloto, una comunidad de educación para emprendedores por emprendedores en toda Latinoamérica. ¿Cómo nació la idea? La idea nació en mi propia experiencia como emprendedor que me sentía muy solo. Yo estaba aprendiendo con restaurantes en Estados Unidos y todo el tiempo sentía que no tenía apoyo, que no tenía un copiloto en mi viaje al emprendimiento. Posteriormente vendí esa empresa de restaurantes y me vine a Colombia y quiero creer esa comunidad en Latinoamérica para precisamente ayudar a que los emprendedores no se sientan solos. ¿Cómo ha sido tu transformación, digamos, de pasar de emprendedor e perdiendo la industria en los restaurantes, hacer lo que haces hoy en día, que hacen podcast en curso, tienen la comunidad? No, absoluta y total, o sea, la realidad es que es como volverán a seres. Otra industria, otro rubro, me ha tocado aprender hasta aprender hasta un nuevo lenguaje, ¿me entendés? Terminos distintos, conceptos diferentes, pero a mí eso me encanta. ¿Qué es lo que más te gusta, digamos, de las entrevistas que haces a grandes empresarios hoy en día y a personas increíbles? Realmente aprendo, o sea, yo genuinamente me pongo a mí de cliente en ese momento. O sea, yo estoy pensando, si yo me fuera a sentar con esta persona que me gustaría saber eso, lo que hago. Entonces, realmente aprovecho el espacio, el momento para extraer todo lo que yo pueda y compartirlo también con nuestra audiencia. ¿Qué se siente, digamos, estar acá en este evento en el techfest como emprendedor, como speaker? Me encanta, me encanta todo lo que es presencial, porque como tanto de mi vida es digital, poder estar en persona con las personas me fascina. ¿Qué le irías a la persona que esté emprendiendo y que esté buscando como ese copiloto? Que nos sigan arrojando, somos copiloto y a mí arroja Miguel Manevech. Y a vos, como así, todo lo que tiene que ver con ella y este es tu man. 
+Why it worked 
+Opens mid-sentence on an unresolved reaction ('absoluta y total... volverán a seres') so the viewer has no context and has to keep watching to figure out what's being answered; the interview format borrows credibility from a named AI summit and a founder guest, and burned-in synced captions carry the sound-off scroll. 
+=== ARTICLE ===
+ #12 
+ ‹ › 1 / 4 
+ [https://www.instagram.com/p/DdPsOdpJJis/] ▶ View on Instagram 
+ @lucianomusellaa Reel 
+ ♥ 63 1.7× breakout 💬 3 Sep 13, 2026 
+Hook · spoken + text 
+Adica, me creo, porque me saben cómo es por aquí. 
+Format walking interview / vox pop 
+Breakdown 
+A walking street-interview filmed at Colombia Tech Fest where the host (mic in hand) interviews Valentina Giraldo Henao, founder of La Valentina Design, about her brand's origin, AI's real impact on branding, creativity, and her company's expansion into Mexico. 
+ Transcript Copy 
+Adica, me creo, porque me saben cómo es por aquí. La Valentina de la Valentina Design, ¿por qué se nombre? Porque vivía en España y me impactaba que en Barcelona la gente usaba él o la para reflejarse en una persona. Cuando empecé a la compañía, estaba saliendo de haber montado otra compañía y dije pues lo van a hacer con la única Valentina posible. Me estás contando que estás en el año número 11 de la Valentina. Sí, demasiado emocionante llegar acá al Techfest y encontrarnos con la marca de Colombia Tech, Colombia Tech Week, 30X, Mono, Drubo, Laptop. Ganan de llorar porque es muy emocionante. Yo me creo dueña de todos los proyectos y verlos dos, tres, cuatro años después, rompiendo la, pues en América no hay nadie igual. Y así lo sientes tú. Me creo, en América me creo, porque me saben cómo es por aquí. Es, no, además se va emocionante. ¿Cómo fue la creación, digamos a tú? ¿En qué te inspiraste en estos colores? Pues, en mi aquí. ¿Y que no se la quita? Bueno, pues afortunadamente es una muy buena marca, muchas gracias, que nos gusta mucho. ¿Te había pasado que un cliente no se quitaras su chaqueta ni para orinar? No, ese man, se lo juro que todos tenían que aprender de eso. Eso se llamaba tener una presidencia de marca muy brava y personal branding muy claro. ¿Y cómo crees que ha evolucionado el branding en el mundo de LAI? Lo máximo, pues hoy estamos dando una conferencia en AWS acerca de eso, que hay como una creencia que es espectacular, que LAI reemplaza los equipos de mercadeo, de branding de todo, reduce los tiempos a la N potencia y los costos. Cosa que cuando uno ya tiene una marca construida y solida, es 100% real. Si uno no tiene una marca bien construida, ella ya hace cualquier vaina. Terminan pareciéndose todas las cualquier vainas. Ya. Entonces, no se si han dado cuenta, cada vez más estamos entrenados, como ya vamos viéndolas tanto, para que uno en LinkedIn o en Instagram me dice, ¡ah, este mal promptio! Entonces, confío y creo mucho en LAI, pero tiene que estar muy entrenado, tiene que estar muy claro, tiene que tener los límites muy marcados, para que esa identidad que ustedes tienen como compañía, no termine en un mar de todo, se viene igual, pero con un lago diferente. ¿De dónde, digamos, crees que la gente se puede comenzar a inspirar y volverse creativo? Todo el mundo dice, ¡no es que yo no soy creativo! Mira, si estás vivo, eres creativo. Yo estudié diseño, artes plásticas y periodismo. Y hay algo que a mí me rompe la cabeza, y es pensar que solamente la gente que se dedica a creatividad es creativa. Uno a la hora de cocinar se pone creativo, uno a la hora de coquetearle a alguien se pone creativo, uno a la hora de crear un negocio se pone creativo. Yo creo que lo primero es recordar que, de verdad, si estás vivo, eres creativo. Y bueno, ¿y qué viene para la Valentina? Bueno, yo vi en México hace cinco años y me dio, me fui a México buscando expandir el negocio fuera de Colombia, pasamos a vender el 2% de la facturación fuera de Colombia el 56%, al final del otro año quiero que estamos vendiendo el 80% de la facturación fuera de Colombia. La meta es convertir a Colombia al paradiso creativo del mundo y que nos reconozcan por eso y no por todos los estigmas negativos que tenemos. Y amo el resultado, de verdad, venir a ver nuestras marcas, la gente rompiéndola como marcas que hemos creado nosotras, nosotros, como empresa, pues es mejor. Qué orgullo. Bueno, no. Qué orgullo. 
+Why it worked 
+Opens on a bold, confident brag delivered straight to camera while walking, then rides the credibility of a recognizable event (Colombia Tech Fest) and a named founder guest; burned-in captions track the dialogue throughout to hold attention through an unscripted, conversational interview format. 
+ Generated 2026-09-14 · ig-competitor-research · ranked by likes (no view data from source) 
+ 
+=== REFERENCE REEL #2 (added by the user 2026-09-14) ===
+https://www.instagram.com/reel/Db55l3zx7wS/  · Jack Mason (@8293479993) about @greglav / Bloom · 2026-08-11 · 92.5 s · 1916x1078 (16:9 posted as a reel) · 14,289 likes · 1,546 comments
+Caption: "Comment 'Bloom' for my guide to building a founder-led personal brand — Here's the secret reason @greglav is posting content like it's his full time job"
+Structure seen: hook with name label + arrow (0-2s) → product close-up "billion dollar brand" → whip into a laptop mockup of his reel → b-roll with one-word captions → "$600M a year in revenue" stat rolling in beside the product → mansion / podcast b-roll → the reel wall scroll ("content") → presenter on white with giant "WHY?" BEHIND him → IG profile card (real) → dollar macro → chapter "1. ACCESS" in a CRT frame → "87.7K" counter → café b-roll → the orange ROOM set with a retro monitor playing his footage, word-synced text left/right of the monitor (10 s) → presenter on white, giant "investors" / "dealflow" behind → phone b-roll → "2. AUDIENCE" → IG card zoom → crowd → trade-show b-roll → Boost-button macro with text left/right → card + B&W portrait cutout → reel thumbnail with text split around it → "3. AUTHORITY" → room set with the presenter at a white table, two-tone type beside him → room + monitor, "CONTROL THE NARRATIVE" → white list carousel (More Status / More leverage / More Reputation, active item centred and dark) → presenter on white, giant "personal brand" / "audience" / "authority" / "Bloom" behind.
+Frames: jm-*.jpg in this folder.
+
+=== REFERENCE REEL #3 (added by the user 2026-09-14, "úsalos como B-roll") ===
+https://www.instagram.com/reel/DdMXcieBNDe/ · Luke Davis (@1935393637, crypto educator) · 2026-09-12 · 48.8 s · 1080x1920 · 24 fps · 294 likes
+Caption: "Click the link in bio to join my FREE Crypto Accelerator Workshop — This Sunday, September 13th at 12PM ET."
+Structure seen (0–38 s has NO face at all — a faceless explainer where the animated graphic IS the b-roll): dark navy field with a faint grid → the word-synced sentence in bold white in the top third, filling word by word ("The dollar in your pocket has lost / more than 95% of its value since 1913") → the dollar-bill icon centred with a % chip that counts down 100 → 96 → 32 → 12 → 6 → 5 while the sentence fills (0–4.5 s) → a timeline draws in left to right ("Gold backs the dollar 1792 → 2026", then "1971 Dollar removed from gold standard") (5–12 s) → a line chart draws in ("Dollar Purchasing Power", source label) with the sentence now BELOW the chart (12.5–15 s) → bills stack up one by one on "every dollar the government prints" (15.5–19.5 s), the stack dims to a single bill on "worth a little less" (20 s) → the chart again while "for decades this happened slowly" (21–25 s) → a donut chart (grey / gold / bitcoin segments) on "gold and Bitcoin sit inside serious portfolios" (26–30.5 s) → GOLD-1M chart draws in (31–36 s) → BTCUSD chart (36.5–37.5 s) → hard cut to the CTA card: title stamp, a framed screen recording with the speaker's face INSIDE the frame, "CLICK THE LINK IN BIO", the sentence below (38–48.8 s).
+Face rule observed: for 38 s there is no face; when the face appears (inside the framed screen recording) nothing overlaps it — the title sits above the frame, the sentence below.
+What "icon as b-roll" means here: the icon is the whole cutaway — one graphic per beat, centred, ~55–65 % of the frame width, on a flat dark field with a faint grid; it ANIMATES the claim (a value counts down, bills stack, a line draws) rather than just appearing; it holds 2–6 s while the sentence fills word by word above or below it; the next beat replaces it with a cut or a quick rise. Cadence: ~9 graphic beats in 38 s ≈ one every 4 s.
+Frames: ld-*.jpg in this folder.
